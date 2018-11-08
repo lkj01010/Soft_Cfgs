@@ -1,0 +1,61 @@
+{
+  "title": "Keymaps in 3dcoat",
+  "rules": [
+    {
+      "description": "Modify F1 F2 to mouse in 3dcoat",
+      "manipulators": [
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "f1",
+            "modifiers": {
+              "optional": [
+                "any"
+              ]
+            }
+          },
+          "to": [
+            {
+                "pointing_button": "button3"
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_if",
+              "bundle_identifiers": [
+                "^com\\.Pilgway\\.-D-Coat"
+              ]
+            }
+          ]
+        },
+        {
+            "type": "basic",
+            "from": {
+              "key_code": "f2",
+              "modifiers": {
+                "optional": [
+                  "any"
+                ]
+              }
+            },
+            "to": [
+              {
+                  "pointing_button": "button2",
+                  "modifiers": [
+                      "left_option"
+                  ]
+              }
+            ],
+            "conditions": [
+              {
+                "type": "frontmost_application_if",
+                "bundle_identifiers": [
+                  "^com\\.Pilgway\\.-D-Coat"
+                ]
+              }
+            ]
+        }
+      ]
+    }
+  ]
+}

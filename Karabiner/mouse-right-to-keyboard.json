@@ -1,0 +1,49 @@
+{
+  "title": "mouse to keyboard",
+  "rules": [
+    {
+      "description": "left to keyboard",
+      "manipulators": [
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "escape",
+            "modifiers": {
+              "mandatory": [
+                "left_command"
+              ]
+            }
+          },
+          "to": [
+            {
+                "pointing_button": "button1"
+                
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "right to keyboard",
+      "manipulators": [
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "escape",
+            "modifiers": {
+              "mandatory": [
+                "left_option"
+              ]
+            }
+          },
+          "to": [
+            {
+                "pointing_button": "button2"
+                
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

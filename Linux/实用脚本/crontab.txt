@@ -1,0 +1,1 @@
+0 */3 * * * ttdota /mnt/data/ttdota/crontab/mongod_bak.sh		//每3小时保存一次
