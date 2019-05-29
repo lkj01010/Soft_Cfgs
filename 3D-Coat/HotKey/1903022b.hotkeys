@@ -379,7 +379,7 @@
  </OneHotKey>
  <OneHotKey>
   <ID>SYMMETRY</ID>
-  <Code>S</Code>
+  <Code>key_00</Code>
   <Ctrl>false</Ctrl>
   <Alt>false</Alt>
   <Shift>false</Shift>
@@ -921,6 +921,15 @@
   <ID>HSV_LAYER</ID>
   <Code>U</Code>
   <Ctrl>true</Ctrl>
+  <Alt>false</Alt>
+  <Shift>false</Shift>
+  <AllowStack>false</AllowStack>
+  <UserDefined>1</UserDefined>
+ </OneHotKey>
+ <OneHotKey>
+  <ID>PICK_TOOL_HINT</ID>
+  <Code>S</Code>
+  <Ctrl>false</Ctrl>
   <Alt>false</Alt>
   <Shift>false</Shift>
   <AllowStack>false</AllowStack>
