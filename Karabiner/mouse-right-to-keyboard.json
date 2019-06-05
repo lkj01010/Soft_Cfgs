@@ -10,7 +10,7 @@
             "key_code": "escape",
             "modifiers": {
               "mandatory": [
-                "left_command"
+                "left_option"
               ]
             }
           },
@@ -32,7 +32,7 @@
             "key_code": "escape",
             "modifiers": {
               "mandatory": [
-                "left_option"
+                "left_command"
               ]
             }
           },

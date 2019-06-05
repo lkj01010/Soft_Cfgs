@@ -1,0 +1,2 @@
+复制文件到
+Midstream > .config > karabiner > assets > complex_modifications
