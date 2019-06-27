@@ -1,2 +1,11 @@
 复制文件到
 Midstream > .config > karabiner > assets > complex_modifications
+
+脚本说明
+https://pqrs.org/osx/karabiner/json.html#condition-definition-device
+
+key_code
+从Karabiner->simpleModifications->addItem中看
+
+bundle_identifiers
+软件->查看包内容->Contents->Info.plist->搜CFBundleIdentifier

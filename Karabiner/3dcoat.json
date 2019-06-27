@@ -1,8 +1,8 @@
 {
-  "title": "Keymaps in 3dcoat",
+  "title": "3dcoat",
   "rules": [
     {
-      "description": "Modify F1 F2 to mouse in 3dcoat",
+      "description": "3dcoat: F1 F2 to mouse",
       "manipulators": [
         {
           "type": "basic",
