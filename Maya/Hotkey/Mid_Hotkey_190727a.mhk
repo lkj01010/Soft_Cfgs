@@ -1,0 +1,98 @@
+//Maya Preference 2019 (Release 1)
+//
+//
+
+//
+// The runtime commands referenced by the hotkeys
+//
+//
+// The name commands referenced by the hotkeys
+//
+nameCommand
+	-annotation "SetKeyNameCommand"
+	-sourceType "mel"
+	-command ("SetKey")
+	SetKeyNameCommand;
+
+nameCommand
+	-annotation "PreviousFrameNameCommand"
+	-sourceType "mel"
+	-command ("PreviousFrame")
+	PreviousFrameNameCommand;
+
+nameCommand
+	-annotation "NextFrameNameCommand"
+	-sourceType "mel"
+	-command ("NextFrame")
+	NextFrameNameCommand;
+
+nameCommand
+	-annotation "NextKeyNameCommand"
+	-sourceType "mel"
+	-command ("NextKey")
+	NextKeyNameCommand;
+
+nameCommand
+	-annotation "PreviousKeyNameCommand"
+	-sourceType "mel"
+	-command ("PreviousKey")
+	PreviousKeyNameCommand;
+
+nameCommand
+	-annotation "PlaybackForwardNameCommand"
+	-sourceType "mel"
+	-command ("PlaybackForward")
+	PlaybackForwardNameCommand;
+
+nameCommand
+	-annotation "GoToMinFrameNameCommand"
+	-sourceType "mel"
+	-command ("GoToMinFrame")
+	GoToMinFrameNameCommand;
+
+//
+// The user hotkeys
+//
+//
+// The hotkey set
+//
+hotkeySet -source "Maya_Default" -current Mid_190727;
+//
+// The hotkey contexts and hotkeys
+//
+hotkey -keyShortcut "@" -name ("NextKeyNameCommand");
+hotkey -keyShortcut "2" -name ("NextFrameNameCommand");
+hotkey -keyShortcut "F1" -sht -name ("GoToMinFrameNameCommand");
+hotkey -keyShortcut "," -alt -name ("");
+hotkey -keyShortcut "!" -name ("PreviousKeyNameCommand");
+hotkey -keyShortcut "F1" -cmd -name ("");
+hotkey -keyShortcut "F1" -name ("PlaybackForwardNameCommand");
+hotkey -keyShortcut "." -alt -name ("");
+hotkey -keyShortcut "x" -alt -name ("");
+hotkey -keyShortcut "z" -name ("");
+hotkey -keyShortcut "1" -name ("PreviousFrameNameCommand");
+hotkey -keyShortcut "," -name ("");
+hotkey -keyShortcut "s" -name ("SetKeyNameCommand");
+hotkey -keyShortcut "." -name ("");
+hotkey -keyShortcut "Left" -name ("");
+hotkey -keyShortcut "x" -name ("");
+hotkey -keyShortcut "x" -releaseName ("");
+hotkey -keyShortcut "v" -alt -sht -name ("");
+hotkey -keyShortcut "z" -alt -name ("");
+hotkeyCtx -type "Editor" -addClient "polyTexturePlacementPanel";
+hotkeyCtx -type "Editor" -addClient "hyperGraphPanel";
+hotkeyCtx -type "Editor" -addClient "profilerPanel";
+hotkeyCtx -type "Editor" -addClient "shapePanel";
+hotkeyCtx -type "Editor" -addClient "posePanel";
+hotkeyCtx -type "Editor" -addClient "graphEditor";
+hotkeyCtx -type "Editor" -addClient "hyperShadePanel";
+hotkeyCtx -type "Editor" -addClient "nodeEditorPanel";
+hotkeyCtx -type "Editor" -addClient "outlinerPanel";
+hotkeyCtx -type "Editor" -addClient "timeEditorPanel";
+hotkeyCtx -type "Tool" -addClient "texSculptCacheContext";
+hotkeyCtx -type "Tool" -addClient "texCutContext";
+hotkeyCtx -type "Tool" -addClient "xgmIGBrush";
+hotkeyCtx -type "Tool" -addClient "SymmetrizeUVBrush";
+hotkeyCtx -type "Tool" -addClient "polyCutUV";
+hotkeyCtx -type "Tool" -addClient "Unfold3DBrush";
+hotkeyCtx -type "Tool" -addClient "sculptMeshCache";
