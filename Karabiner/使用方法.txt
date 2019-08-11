@@ -1,5 +1,5 @@
 复制文件到
-Midstream > .config > karabiner > assets > complex_modifications
+/Users/Midstream/.config/karabiner/assets/complex_modifications
 
 脚本说明
 https://pqrs.org/osx/karabiner/json.html#condition-definition-device
