@@ -1,4 +1,4 @@
-import ma_workflow.fbx_utils as fu
+import ma_workflow.com as fu
 
 path1 = "/Users/Midstream/Documents/maya/projects/default/scenes/190802/Glacial@Glacial_Attack.FBX"
 

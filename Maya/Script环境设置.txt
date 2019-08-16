@@ -1,0 +1,35 @@
+1.profile中的PYTHONPATH , maya中无法获取， 但是命令行下用 mayapy可获取
+2.所以maya中只能从/Users/Midstream/Library/Preferences/Autodesk/maya/2019/Maya.env获取
+	例子如下：
+MAYA_PLUG_IN_PATH = /Users/Midstream/Library/Preferences/Autodesk/maya/2019/plug-ins/plug-ins
+MAYA_SCRIPT_PATH = /Users/Midstream/Library/Preferences/Autodesk/maya/2019/plug-ins/scripts
+XBMLANGPATH = /Users/Midstream/Library/Preferences/Autodesk/maya/2019/plug-ins/icons
+
+PYTHONPATH = $PYTHONPATH:/Applications/PyCharm2018.3.app/Contents/debug-eggs/pycharm-debug.egg:/Users/Midstream/Documents/Soft_Cfgs/Maya/MayaScripts
+
+！！！1。变量只能写成一行，如果写2个 PYTHONPATH行，第2行不生效
+！！！2. 不能有空格，这个和profile中规则不一样，写成  PyCharm\ 2018.3.app 或者全部加 ""号括起来也无法被maya正确识别
+
+
+pyCharm debug
+1. Configurations->Python Remote Debug
+	check <Share>
+	Local host name: localhost
+	Port: 5123
+	(not set mappings)
+	uncheck : Redirect output to console
+	uncheck: Suspend after connect
+2.in maya
+	new a python tab, input:
+	
+import pydevd
+pydevd.settrace('localhost', port=5123, suspend=False)
+	
+	run it, then pyCharm console idicate success
+3.in pyCharm, set code breakpoint,
+   in maya
+	input you code , which is invoking pyCharm project PACKAGE code,  then hit the breakpoint.
+	
+4. stop debug
+	in maya python tab, input:
+	pydevd.stoptrace()

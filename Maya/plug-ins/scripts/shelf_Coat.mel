@@ -1,0 +1,344 @@
+global proc shelf_Coat () {
+    global string $gBuffStr;
+    global string $gBuffStr0;
+    global string $gBuffStr1;
+
+
+    shelfButton
+        -enableCommandRepeat 1
+        -enable 1
+        -width 34
+        -height 34
+        -manage 1
+        -visible 1
+        -preventOverride 0
+        -align "center" 
+        -label "Load plugin" 
+        -labelOffset 0
+        -font "tinyBoldLabelFont" 
+        -image "coat_load.xpm" 
+        -image1 "coat_load.xpm" 
+        -style "iconOnly" 
+        -marginWidth 1
+        -marginHeight 1
+        -command "loadPlugin(\"3dc_applink.py\")" 
+        -sourceType "mel" 
+        -actionIsSubstitute 0
+    ;
+    shelfButton
+        -enableCommandRepeat 1
+        -enable 1
+        -width 34
+        -height 34
+        -manage 1
+        -visible 1
+        -preventOverride 0
+        -align "center" 
+        -label "Unload plugin" 
+        -labelOffset 0
+        -font "tinyBoldLabelFont" 
+        -image "coat_unload.xpm" 
+        -image1 "coat_unload.xpm" 
+        -style "iconOnly" 
+        -marginWidth 1
+        -marginHeight 1
+        -command "unloadPlugin(\"3dc_applink.py\")" 
+        -sourceType "mel" 
+        -actionIsSubstitute 0
+    ;
+    shelfButton
+        -enableCommandRepeat 1
+        -enable 1
+        -width 34
+        -height 34
+        -manage 1
+        -visible 1
+        -preventOverride 0
+        -align "center" 
+        -label "Paint mesh in 3D-Coat using per-pixel painting" 
+        -labelOffset 0
+        -font "tinyBoldLabelFont" 
+        -image "coat_ppp.xpm" 
+        -image1 "coat_ppp.xpm" 
+        -style "iconOnly" 
+        -marginWidth 1
+        -marginHeight 1
+        -command "coatExport(0)" 
+        -sourceType "mel" 
+        -actionIsSubstitute 0
+    ;
+    shelfButton
+        -enableCommandRepeat 1
+        -enable 1
+        -width 34
+        -height 34
+        -manage 1
+        -visible 1
+        -preventOverride 0
+        -align "center" 
+        -label "Paint mesh in 3D-Coat using microvertex painting" 
+        -labelOffset 0
+        -font "tinyBoldLabelFont" 
+        -image "coat_mv.xpm" 
+        -image1 "coat_mv.xpm" 
+        -style "iconOnly" 
+        -marginWidth 1
+        -marginHeight 1
+        -command "coatExport(1)"
+        -sourceType "mel" 
+        -actionIsSubstitute 0
+    ;
+    shelfButton
+        -enableCommandRepeat 1
+        -enable 1
+        -width 34
+        -height 34
+        -manage 1
+        -visible 1
+        -preventOverride 0
+        -align "center" 
+        -label "Paint mesh in 3D-Coat using Ptex" 
+        -labelOffset 0
+        -font "tinyBoldLabelFont" 
+        -image "coat_ptex.xpm" 
+        -image1 "coat_ptex.xpm" 
+        -style "iconOnly" 
+        -marginWidth 1
+        -marginHeight 1
+        -command "coatExport(2)" 
+        -sourceType "mel" 
+        -actionIsSubstitute 0
+    ;
+    shelfButton
+        -enableCommandRepeat 1
+        -enable 1
+        -width 34
+        -height 34
+        -manage 1
+        -visible 1
+        -preventOverride 0
+        -align "center" 
+        -label "Perform UV-mapping in 3D-Coat" 
+        -labelOffset 0
+        -font "tinyBoldLabelFont" 
+        -image "coat_uv.xpm" 
+        -image1 "coat_uv.xpm" 
+        -style "iconOnly" 
+        -marginWidth 1
+        -marginHeight 1
+        -command "coatExport(3)" 
+        -sourceType "mel" 
+        -actionIsSubstitute 0
+    ;
+    shelfButton
+        -enableCommandRepeat 1
+        -enable 1
+        -width 34
+        -height 34
+        -manage 1
+        -visible 1
+        -preventOverride 0
+        -align "center" 
+        -label "Drop reference mesh to 3D-Coat" 
+        -labelOffset 0
+        -font "tinyBoldLabelFont" 
+        -image "coat_ref.xpm" 
+        -image1 "coat_ref.xpm" 
+        -style "iconOnly" 
+        -marginWidth 1
+        -marginHeight 1
+        -command "coatExport(4)" 
+        -sourceType "mel" 
+        -actionIsSubstitute 0
+    ;
+    shelfButton
+        -enableCommandRepeat 1
+        -enable 1
+        -width 34
+        -height 34
+        -manage 1
+        -visible 1
+        -preventOverride 0
+        -align "center" 
+        -label "Drop retopo mesh as new layer in 3D-Coat" 
+        -labelOffset 0
+        -font "tinyBoldLabelFont" 
+        -image "coat_retopo.xpm" 
+        -image1 "coat_retopo.xpm" 
+        -style "iconOnly" 
+        -marginWidth 1
+        -marginHeight 1
+        -command "coatExport(5)"
+        -sourceType "mel" 
+        -actionIsSubstitute 0
+    ;
+    shelfButton
+        -enableCommandRepeat 1
+        -enable 1
+        -width 34
+        -height 34
+        -manage 1
+        -visible 1
+        -preventOverride 0
+        -align "center" 
+        -label "Drop mesh in 3D-Coat as voxel object" 
+        -labelOffset 0
+        -font "tinyBoldLabelFont" 
+        -image "coat_vox.xpm" 
+        -image1 "coat_vox.xpm" 
+        -style "iconOnly" 
+        -marginWidth 1
+        -marginHeight 1
+        -command "coatExport(6)"
+        -sourceType "mel" 
+        -actionIsSubstitute 0
+    ;
+    shelfButton
+        -enableCommandRepeat 1
+        -enable 1
+        -width 34
+        -height 34
+        -manage 1
+        -visible 1
+        -preventOverride 0
+        -align "center" 
+        -label "Drop mesh in 3D-Coat as single voxel object, all objects will be merged together in one volume" 
+        -labelOffset 0
+        -font "tinyBoldLabelFont" 
+        -image "coat_voxcombine.xpm" 
+        -image1 "coat_voxcombine.xpm" 
+        -style "iconOnly" 
+        -marginWidth 1
+        -marginHeight 1
+        -command "coatExport(10)"
+        -sourceType "mel" 
+        -actionIsSubstitute 0
+    ;
+    shelfButton
+        -enableCommandRepeat 1
+        -enable 1
+        -width 34
+        -height 34
+        -manage 1
+        -visible 1
+        -preventOverride 0
+        -align "center" 
+        -label "Drop mesh in 3D-Coat as new pen alpha" 
+        -labelOffset 0
+        -font "tinyBoldLabelFont" 
+        -image "coat_alpha.xpm" 
+        -image1 "coat_alpha.xpm" 
+        -style "iconOnly" 
+        -marginWidth 1
+        -marginHeight 1
+        -command "coatExport(7)"
+        -sourceType "mel" 
+        -actionIsSubstitute 0
+    ;
+    shelfButton
+        -enableCommandRepeat 1
+        -enable 1
+        -width 34
+        -height 34
+        -manage 1
+        -visible 1
+        -preventOverride 0
+        -align "center" 
+        -label "Drop mesh in 3D-Coat as new merging primitive for voxels" 
+        -labelOffset 0
+        -font "tinyBoldLabelFont" 
+        -image "coat_prim.xpm" 
+        -image1 "coat_prim.xpm" 
+        -style "iconOnly" 
+        -marginWidth 1
+        -marginHeight 1
+        -command "coatExport(8)"
+        -sourceType "mel" 
+        -actionIsSubstitute 0
+    ;
+    shelfButton
+        -enableCommandRepeat 1
+        -enable 1
+        -width 34
+        -height 34
+        -manage 1
+        -visible 1
+        -preventOverride 0
+        -align "center" 
+        -label "Drop mesh in 3D-Coat as a curve profile " 
+        -labelOffset 0
+        -font "tinyBoldLabelFont" 
+        -image "coat_curv.xpm" 
+        -image1 "coat_curv.xpm" 
+        -style "iconOnly" 
+        -marginWidth 1
+        -marginHeight 1
+        -command "coatExport(11)"
+        -sourceType "mel" 
+        -actionIsSubstitute 0
+    ;
+    shelfButton
+        -enableCommandRepeat 1
+        -enable 1
+        -width 34
+        -height 34
+        -manage 1
+        -visible 1
+        -preventOverride 0
+        -align "center" 
+        -label "Drop mesh in 3D-Coat for Auto-retopology" 
+        -labelOffset 0
+        -font "tinyBoldLabelFont" 
+        -image "coat_autopo.xpm" 
+        -image1 "coat_autopo.xpm" 
+        -style "iconOnly" 
+        -marginWidth 1
+        -marginHeight 1
+        -command "coatExport(9)"
+        -sourceType "mel" 
+        -actionIsSubstitute 0
+    ;
+    shelfButton
+        -enableCommandRepeat 1
+        -enable 1
+        -width 34
+        -height 34
+        -manage 1
+        -visible 1
+        -preventOverride 0
+        -align "center" 
+        -label "Perform import" 
+        -labelOffset 0
+        -font "tinyBoldLabelFont" 
+        -image "coat_imp.xpm" 
+        -image1 "coat_imp.xpm" 
+        -style "iconOnly"
+        -marginWidth 1
+        -marginHeight 1
+        -command "coatImport()" 
+        -sourceType "mel" 
+        -actionIsSubstitute 0
+    ;
+    shelfButton
+        -enableCommandRepeat 1
+        -enable 1
+        -width 34
+        -height 34
+        -manage 1
+        -visible 1
+        -preventOverride 0
+        -align "center" 
+        -label "Show UI" 
+        -labelOffset 0
+        -font "tinyBoldLabelFont" 
+        -image "coat_ui.xpm" 
+        -image1 "coat_ui.xpm" 
+        -style "iconOnly" 
+        -marginWidth 1
+        -marginHeight 1
+        -command "coatUI()" 
+        -sourceType "mel" 
+        -actionIsSubstitute 0
+    ;
+
+} 
