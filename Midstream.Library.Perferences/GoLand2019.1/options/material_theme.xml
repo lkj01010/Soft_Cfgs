@@ -1,0 +1,16 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.8.3" />
+    <option name="selectedTheme" value="ONE_DARK" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="accentColor" value="2979ff" />
+    <option name="useMaterialIcons" value="false" />
+    <option name="tabsHeight" value="28" />
+    <option name="tabOpacity" value="16" />
+    <option name="monochromeIcons" value="true" />
+    <option name="settingsSelectedTab" value="2" />
+    <option name="userId" value="49806287:165b2db87d1:-8000" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+  </component>
+</application>

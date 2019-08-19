@@ -1,0 +1,110 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.6 (/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="jar:///Library/Python/2.7/site-packages/diesel-3.0.24-py2.7.egg!/" type="simple" />
+            <root url="file:///Library/Python/2.7/site-packages/tornado-4.3.dev1-py2.7-macosx-10.10-intel.egg" type="simple" />
+            <root url="file:///Library/Python/2.7/site-packages/certifi-2015.04.28-py2.7.egg" type="simple" />
+            <root url="file:///Library/Python/2.7/site-packages/backports.ssl_match_hostname-3.4.0.2-py2.7.egg" type="simple" />
+            <root url="jar:///Library/Python/2.7/site-packages/pymongo-3.1.0.dev0-py2.7-macosx-10.10-intel.egg!/" type="simple" />
+            <root url="jar:///Library/Python/2.7/site-packages/redis-2.10.5-py2.7.egg!/" type="simple" />
+            <root url="file:///Library/Python/2.7/site-packages/pip-18.0-py2.7.egg" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Library/Python/2.7/lib/python/site-packages" type="simple" />
+            <root url="file:///Library/Python/2.7/site-packages" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-2125986627" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="MayaPy 2.7" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.15" />
+      <homePath value="/Applications/Autodesk/maya2019/Maya.app/Contents/bin/mayapy" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Applications/Autodesk/maya2019/Maya.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python2.7" type="simple" />
+            <root url="file:///Applications/Autodesk/maya2019/Maya.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python2.7/plat-darwin" type="simple" />
+            <root url="file:///Applications/Autodesk/maya2019/Maya.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python2.7/plat-mac" type="simple" />
+            <root url="file:///Applications/Autodesk/maya2019/Maya.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python2.7/plat-mac/lib-scriptpackages" type="simple" />
+            <root url="file:///Applications/Autodesk/maya2019/Maya.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///Applications/Autodesk/maya2019/Maya.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Library/Python/2.7/lib/python/site-packages" type="simple" />
+            <root url="file:///Applications/Autodesk/maya2019/devkit/other/pymel/extras/completion/py" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/debug-eggs/pycharm-debug.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/611305157" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional>
+        <PATHS_ADDED_BY_USER_ROOT PATH_ADDED_BY_USER="jar://$APPLICATION_HOME_DIR$/debug-eggs/pycharm-debug.egg!/" />
+        <PATHS_ADDED_BY_USER_ROOT PATH_ADDED_BY_USER="file:///Applications/Autodesk/maya2019/devkit/other/pymel/extras/completion/py" />
+        <PATHS_REMOVED_BY_USER_ROOT PATH_REMOVED_BY_USER="file:///Applications/Autodesk/maya2019/Maya.app/Contents/Frameworks/Python.framework/Versions/Current/lib/python2.7/site-packages" />
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7" />
+      <type value="Python SDK" />
+      <homePath value="/Applications/MAXON/Cinema 4D R20/c4dpy.app/Contents/MacOS/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Applications/MAXON/Cinema 4D R20/resource/modules/python/libs/osx/python27.framework/lib/python2.7" type="simple" />
+            <root url="file:///Applications/MAXON/Cinema 4D R20/resource/modules/python/libs/osx/python27.framework/lib/python2.7/plat-mac" type="simple" />
+            <root url="file:///Applications/MAXON/Cinema 4D R20/resource/modules/python/libs/osx/python27.framework/lib/python2.7/plat-mac/lib-scriptpackages" type="simple" />
+            <root url="file:///Applications/MAXON/Cinema 4D R20/resource/modules/python/libs/osx/python27.framework/lib/python2.7/plat-darwin" type="simple" />
+            <root url="file:///Applications/MAXON/Cinema 4D R20/resource/modules/python/libs/osx/python27.framework/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///Applications/MAXON/Cinema 4D R20/resource/modules/python/libs/python27" type="simple" />
+            <root url="file://$USER_HOME$/Library/Preferences/MAXON/Cinema 4D R20_7DE41E5A/python27" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/bin" type="simple" />
+            <root url="file://$USER_HOME$/Library/Preferences/MAXON/python27/libs" type="simple" />
+            <root url="file://$USER_HOME$/Library/Preferences/MAXON/Cinema 4D R20_7DE41E5A/python27/libs" type="simple" />
+            <root url="file:///Applications/MAXON/Cinema 4D R20/resource/modules/python/libs/osx/python27.framework/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-41936028" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>

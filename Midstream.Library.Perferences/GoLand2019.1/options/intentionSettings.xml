@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Go/Convert to var declaration" />
+  </component>
+</application>

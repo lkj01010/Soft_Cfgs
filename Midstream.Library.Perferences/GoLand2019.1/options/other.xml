@@ -1,0 +1,82 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="10.13.0" last-modified="1540886484000" />
+    </local-interpreter>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value=".SFNSText-Regular" />
+    <option name="fontScale" value="1.0" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="212-119-221-255,,,148-188-124-255,,,134-170-112-255,,,69-204-203-255,,,219-141-124-255,,,109-173-255-255,,,80-155-255-255,,,93-186-255-255,,,65-173-255-255,,,203-164-125-255,,,142-146-151-255,,,102-105-109-255,,,68-104-59-255,,,98-100-104-255,,,218-153-102-255,,,218-167-98-255,,,184-85-193-255,,,185-103-185-255,,,195-109-195-255,,,200-112-200-255" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Material Oceanic" />
+    <property name="Default.savedEditorTheme" value="Relax Your Eyes" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileColorsForProjectViewEnabled" value="true" />
+    <property name="FileColorsForTabsEnabled" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="INSPECTION_FILTER_HISTORY" value="mix&#10;field&#10;unnam" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="18" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="0" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="1" />
+    <property name="KEYMAP" value="format&#10;esc&#10;upload&#10;max&#10;restore" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="MTBoldTabs" value="false" />
+    <property name="MTBorderPopup" value="true" />
+    <property name="MTTabsHeight" value="28" />
+    <property name="PLUGIN_FILTER" value="bash&#10;codeg&#10;codegla&#10;code&#10;Remote H" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.19784656" />
+    <property name="SearchEveryWhereHistory" value="maptheme&#10;x.a&#10;enc_gam&#10;enc_game&#10;x." />
+    <property name="SettingsSearchHistory" value="esc&#10;jump to&#10;jump&#10;focus&#10;4" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SplitFileEditor.Proportion" value="0.5524543" />
+    <property name="change.laf.on.editor.theme.change" value="true" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="ONE_DARK" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="dir.diff.filter" value="" />
+    <property name="dir.diff.panel.divider.location" value="295" />
+    <property name="dir.diff.space.button.info" value="1" />
+    <property name="disable.forced.soft.wraps.notification" value="true" />
+    <property name="evlsprt.GO-172.3757.2" value="15f6d80a822" />
+    <property name="evlsprt.GO-173.3415.23" value="15fee5595ea" />
+    <property name="evlsprt.GO-173.3727.96" value="16083087784" />
+    <property name="evlsprt2.GO-172.3757.2" value="15f2041d99f" />
+    <property name="evlsprt2.GO-173.3415.23" value="15fb0df596a" />
+    <property name="evlsprt2.GO-173.3727.96" value="1604fada8a3" />
+    <property name="evlsprt3.182" value="10" />
+    <property name="evlsprt3.191" value="13" />
+    <property name="evlsprt3.GO-163.12024.27" value="17" />
+    <property name="evlsprt3.GO-163.12024.32" value="16" />
+    <property name="evlsprt3.GO-171.4424.55" value="18" />
+    <property name="evlsprt3.GO-171.4694.35" value="18" />
+    <property name="evlsprt3.GO-172.3757.2" value="15" />
+    <property name="evlsprt3.GO-173.3415.23" value="12" />
+    <property name="evlsprt3.GO-173.3727.96" value="10" />
+    <property name="file.gist.reindex.count" value="9272" />
+    <property name="fileTypeChangedCounter" value="41" />
+    <property name="find.popup.splitter" value="0.32967034" />
+    <property name="go.dumbRunEnabled" value="true" />
+    <property name="go.enable.default.tooltip.fixes" value="true" />
+    <property name="go.init.cfg.2" value="true" />
+    <property name="go.init.cfg.line.markers" value="true" />
+    <property name="go.init.mod.file.type" value="true" />
+    <property name="go.last.update.timestamp" value="1757062838277" />
+    <property name="go.libraries.notification.had.been.shown" value="true" />
+    <property name="go.optimizeImportsByDefault" value="true" />
+    <property name="go.suggest.all.rc.was.enabled.once" value="true" />
+    <property name="ideavim.statistics.timestamp" value="1757062838277" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
+    <property name="selected.color.option.type" value="BREADCRUMBS_CURRENT" />
+    <property name="settings.code.style.selected.tab.go" value="Other" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.4.1" />
+  </component>
+</application>

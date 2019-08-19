@@ -1,0 +1,1339 @@
+: 1535901024:0;ll
+: 1535901030:0;cd ..
+: 1535901034:0;pwd
+: 1535901068:0;llllllseifefjeijjeeeeeefjeifjieifejifej
+: 1535901097:0;vim /etc/profile
+: 1535901129:0;sudo vi /etc/profile
+: 1535901164:0;vim ~/.bashrc
+: 1535901200:0;vim ~/.bash_profile
+: 1535901278:0;source ~/.bash_profile
+: 1535901286:0;vim ~/.bashrc
+: 1535901296:0;sudo vi /etc/profile
+: 1535901341:0;ssh moba
+: 1535901559:0;brew install zsh-completions
+: 1535901659:0;ll
+: 1535901704:0;cd Midstream/D
+: 1535901725:0;Midstream/D
+: 1535901739:0;Midstream/Do
+: 1535901779:0;Midstream/Documents/Dev/longhun
+: 1535901783:0;pwd
+: 1535901785:0;ls
+: 1535901787:0;ll
+: 1535901810:0;echo $SHELL
+: 1535901821:0;sudo chsh -s /bin/zsh
+: 1535902604:0;la
+: 1535902752:0;ls ~/.oh-my-zsh/themes
+: 1535902988:0;pwd
+: 1535902989:0;ls
+: 1535902998:0;lsfejij fjeifjej
+: 1535903009:0;vim ~/.bash_profile
+: 1535903188:0;ssh moba
+: 1535903225:0;fefjejj fjeifjefff fef
+: 1535903255:0;la
+: 1535903258:0;ll
+: 1535903260:0;la
+: 1535903803:0;kill java
+: 1535903815:0;ps ux
+: 1535904142:0;ssh root@47.99.70.156:5022 -t zsh
+: 1535904219:0;ll
+: 1535904229:0;vim ~/.ssh/config
+: 1535904294:0;vim /etc/ssh/ssh_config
+: 1535904364:0;ssh moba -t zsh
+: 1535904939:0;ssh moba
+: 1535905026:0;ls
+: 1535905357:0;zsh -h
+: 1535905363:0;zsh --help
+: 1535905510:0;ll
+: 1535905522:0;exit
+: 1535905585:0;ll
+: 1535905591:0;ssh moba -t zsh
+: 1535905643:0;ll
+: 1535905657:0;ssh moba
+: 1535905755:0;ssh moba -t zsh
+: 1535907093:0;ll
+: 1535907303:0;la
+: 1535907313:0;vim /etc/ssh/ssh_config
+: 1535907420:0;vim ~/.zsh_profile
+: 1535907511:0;vim ~/.zshrc
+: 1535907723:0;ll
+: 1535907732:0;vim ~/.zshrc
+: 1535907773:0;ssh moba
+: 1535907816:0;source ~/.zshrc
+: 1535907828:0;ll
+: 1535907831:0;ls
+: 1535907865:0;ll
+: 1535907865:0;la
+: 1535907884:0;ssh moba
+: 1535907903:0;ll
+: 1535907924:0;ssh moba
+: 1535907936:0;vim ~/.zshrc
+: 1535907971:0;ssh moba
+: 1535907978:0;source ~/.zshrc
+: 1535907999:0;ll
+: 1535908009:0;ps ux
+: 1535908659:0;cd root
+: 1535908663:0;cd /opt
+: 1535908664:0;ll
+: 1535908683:0;cd /opt
+: 1535908683:0;ll
+: 1535908695:0;cd opt
+: 1535908697:0;ll
+: 1535909376:0;ssh moba
+: 1535909424:0;ll
+: 1535909437:0;vim main.jsbundle
+: 1535909443:0;ssh moba
+: 1535909770:0;ll
+: 1535909774:0;cd ~/.ssh
+: 1535909775:0;ll
+: 1535909784:0;vim aliyun_root.pem
+: 1535909912:0;cd /Users/Midstream/.ssh && /usr/bin/python -m SimpleHTTPServer 8080
+: 1535910464:0;exit
+: 1535910565:0;ll
+: 1535910611:0;vim ~/.zshrc
+: 1535910645:0;source ~/.zshrc
+: 1535910649:0;vim ~/.zshrc
+: 1535910661:0;vim /etc/bashrc
+: 1535910674:0;vim /etc/zshrc
+: 1535910685:0;ll
+: 1535910688:0;vim openunity.sh
+: 1535910709:0;exit
+: 1535910744:0;ll
+: 1535910750:0;vim ln
+: 1535910753:0;ll
+: 1535910786:0;vim ~/.zshrc
+: 1535910795:0;ls
+: 1535910801:0;ll
+: 1535911016:0;ssh root@47.99.70.156:5022
+: 1535911031:0;ssh moba
+: 1535911087:0;ll
+: 1535911227:0;ssh moba
+: 1535911284:0;ll
+: 1535911293:0;ssh moba
+: 1535912004:0;ll
+: 1535912034:0;exit
+: 1535912040:0;ll
+: 1535912048:0;vim openunity.sh
+: 1535912064:0;cd /
+: 1535912243:0;ssh moba -t bash
+: 1535912266:0;ssh -t bash moba
+: 1535912269:0;ll
+: 1535940505:0;ssh moba
+: 1535940787:0;brew install macvim --env-std --with-override-system-vim
+: 1535941079:0;ll
+: 1535941182:0;git clone https://github.com/powerline/fonts.git --depth=1
+: 1535941750:0;sudo brew install macvim --env-std --with-override-system-vim            
+: 1535941907:0;sudo mkdir /usr/local/Frameworks
+: 1535941927:0;brew link python3
+: 1535941952:0;sudo chown $(whoami):admin /usr/local/Frameworks
+: 1535941957:0;brew link python3
+: 1535942003:0;brew install macvim --env-std --with-override-system-vim         
+: 1535942422:0;ll
+: 1535942431:0;vim installer.failurerequests
+: 1535942445:0;macvim
+: 1535942452:0;whereis macvim
+: 1535942611:0;vim
+: 1535942867:0;/usr/local/Cellar/macvim/8.1-151/MacVim.app/Contents/bin/mvim ; exit;
+: 1535942895:0;feef11212\
+
+: 1535942911:0;/usr/local/Cellar/macvim/8.1-151/MacVim.app/Contents/bin/mvim ; exit;
+: 1535943222:0;ll
+: 1535943230:0;./install.sh
+: 1535943601:0;ll
+: 1535943609:0;ssh moba
+: 1535946279:0;pip install powerline-status
+: 1535946299:0;sudo pip install powerline-status
+: 1535946549:0;brew install coreutils
+: 1535946709:0;pip install --user powerline-status
+: 1535946800:0;vim ~/.zshrc
+: 1535946824:0;ll
+: 1535946836:0;pip show powerline-status
+: 1535946887:0;source ~/.zshrc
+: 1535947248:0;ls
+: 1535947254:0;ll
+: 1535947412:0;vim ~/etc/profile
+: 1535947421:0;vim /etc/profile
+: 1535947444:0;vim ~/.zshrc
+: 1535947459:0;vim ~/.bash_profile
+: 1535947477:0;$GOPATH
+: 1535947486:0;echo $GOPATH
+: 1535947525:0;vim /etc/profile
+: 1535947537:0;sudo vim /etc/profile
+: 1535947884:0;sudo source /etc/profile
+: 1535947893:0;source /etc/profile
+: 1535947934:0;echo $PATH
+: 1535948048:0;vim /etc/profile
+: 1535948102:0;vim ~/.bash_profile
+: 1535948135:0;source ~/.bash_profile
+: 1535948181:0;echo $PATH
+: 1535948206:0;vim ~/.bash_profile
+: 1535948217:0;vim /etc/profile
+: 1535948422:0;vim ~/.zshrc
+: 1535948482:0;source ~/.zshrc
+: 1535948496:0;echo $PATH
+: 1535948537:0;vim ~/.zshrc
+: 1535948553:0;source ~/.zshrc
+: 1535954584:0;vim /etc/profile
+: 1535954590:0;ll
+: 1535954601:0;ssh moba
+: 1535955531:0;source ~/.zshrc
+: 1535955533:0;ll
+: 1535955573:0;cd Downloads
+: 1535955575:0;ll
+: 1535955579:0;ls
+: 1535956320:0;ssh-agent
+: 1535956364:0;ssh-add ~/.ssh/aliyun_root.pem
+: 1535956448:0;defaults write -g NSFileViewer -string com.binarynights.ForkLift-3;\
+defaults write com.apple.LaunchServices/com.apple.launchservices.secure LSHandlers -array-add '{LSHandlerContentType="public.folder";LSHandlerRoleAll="com.binarynights.ForkLift-3";}'
+: 1535964336:0;reload
+: 1535964344:0;exit
+: 1535964385:0;cd Assets/
+: 1535964387:0;ll
+: 1535964389:0;la
+: 1535966410:0;ll
+: 1535966417:0;la
+: 1535966420:0;ll
+: 1535969913:0;echo $GOPATH
+: 1535969921:0;vim ~/.zshrc
+: 1535969957:0;vim /etc/profile
+: 1535969989:0;source /etc/profile
+: 1535969999:0;echo $GOPATH
+: 1535970054:0;vim ~/.zshrc
+: 1535970101:0;source ~/.zshrc
+: 1535970105:0;echo $GOPATH
+: 1535970109:0;pwd
+: 1535970117:0;vim ~/.zshrc
+: 1535970129:0;ll
+: 1535982884:0;ls
+: 1535982888:0;vim /etc/profile
+: 1535982912:0;echo $GOPATH
+: 1535983087:0;ssh moba
+: 1535985193:0;vi .zshrc
+: 1535985203:0;alias
+: 1535985252:0;ll
+: 1535985256:0;vi pslog.txt
+: 1535985260:0;vim pslog.txt
+: 1535985271:0;vi main.jsbundle
+: 1535985278:0;vim main.jsbundle
+: 1535985301:0;alias
+: 1535985310:0;la
+: 1535985362:0;vi Moba2D.csproj
+: 1535985388:0;vi Assets/Scripts
+: 1535985398:0;cd Assets/Scripts
+: 1535985399:0;ll
+: 1535985418:0;vi _Arena/Managers/ArenaManager.cs
+: 1535985440:0;vim _Arena/Managers/ArenaManager.cs
+: 1535986794:0;vi /etc/ssh/ssh_config
+: 1535986823:0;vi /etc/zprofile
+: 1535987995:0;ssh-add -K ~/.ssh/aliyun_root.pem
+: 1535990062:0;ssh moba
+: 1535990567:0;echo $GOPATH
+: 1535990584:0;source /etc/zprofile
+: 1535990590:0;echo $GOPATH
+: 1535990825:0;vi ~/.bash_profile
+: 1535990839:0;vi ~/.bashrc
+: 1535990852:0;vi ~/.zshrc
+: 1535990869:0;source ~/.zshrc
+: 1535990878:0;ssh moba
+: 1535994322:0;echo $GOPATH
+: 1535994398:0;man ssh
+: 1535994939:0;ssh moba
+: 1536026959:0;ssh-add -K .ssh/aliyun_root.pem
+: 1536027457:0;keychain
+: 1536027520:0;vi .zshrc
+: 1536027633:0;source .zshrc
+: 1536027709:0;ll
+: 1536027716:0;ls
+: 1536027738:0;cd Documents/ks
+: 1536027741:0;ll
+: 1536027753:0;cd Documents/
+: 1536027754:0;ll
+: 1536027764:0;cd Temp
+: 1536027764:0;ll
+: 1536027771:0;ssh -i key.pem
+: 1536027969:0;vi ~/.zshrc
+: 1536028011:0;source ~/.zshrc
+: 1536030915:0;ssh moba
+: 1536033664:0;souce ~/.zshrc
+: 1536033669:0;source ~/.zshrc
+: 1536033752:0;ss
+: 1536033760:0;ssh moba
+: 1536040678:0;ll
+: 1536040681:0;ssh moba
+: 1536043508:0;ll
+: 1536043583:0;cd /Users/Midstream/Documents/Tools
+: 1536043583:0;ll
+: 1536043588:0;vi è½¯ä»¶è¯´æƒ¸ƒ®
+: 1536043595:0;cd è½¯ä»¶è¯´æƒ¸ƒ®
+: 1536043595:0;ll
+: 1536043601:0;cd Slicy\ Examples
+: 1536043602:0;ll
+: 1536043613:0;cd Basic\ Tagging/Tagging\ -\ Exports
+: 1536043614:0;ll
+: 1536043621:0;vi Star1.png
+: 1536046345:0;cd /Users/Midstream/Documents/Cur/FTPSpace && /usr/bin/python -m SimpleHTTPServer 8080
+: 1536046429:0;ssh moba
+: 1536046573:0;ll
+: 1536073629:0;ssh moba
+: 1536075895:0;ll
+: 1536075912:0;z
+: 1536076025:0;cd ~/.ssh
+: 1536076027:0;ll
+: 1536076039:0;vi /etc/ssh/ssh_config
+: 1536076101:0;sudo vi /etc/ssh/sshd_config
+: 1536076123:0;sudo vi /etc/ssh/ssh_config
+: 1536076144:0;ssh moba
+: 1536076191:0;sudo vi /etc/ssh/ssh_config
+: 1536076207:0;ssh moba
+: 1536077166:0;ssh mid@47.99.70.156:5022 -i aliyun_mid_1.pem
+: 1536077323:0;ls -a
+: 1536077348:0;chmod 400 aliyun_mid_1.pem
+: 1536077366:0;ssh mid@47.99.70.156 -p 5022 -i ~/.ssh/aliyun_mid_1.pem
+: 1536077490:0;ssh root@47.99.70.156 -p 5022 -i ~/.ssh/aliyun_mid_1.pem
+: 1536077616:0;ssh mid@47.99.70.156 -p 5022 -i ~/.ssh/aliyun_mid_1.pem
+: 1536077960:0;ssh root@47.99.70.156 -p 5022 -i ~/.ssh/aliyun_root_2.pem
+: 1536078073:0;chmod 400 aliyun_root_2.pem
+: 1536078078:0;ssh root@47.99.70.156 -p 5022 -i ~/.ssh/aliyun_root_2.pem
+: 1536078127:0;ssh mid@47.99.70.156 -p 5022 -i ~/.ssh/aliyun_mid_1.pem
+: 1536078278:0;ssh root@47.99.70.156 -p 5022 -i ~/.ssh/aliyun_root_2.pem
+: 1536078304:0;ssh moba
+: 1536078330:0;vi /etc/ssh/ssh_config
+: 1536078446:0;sudo vi /etc/ssh/ssh_config
+: 1536078467:0;ssh moba
+: 1536078697:0;ssh root@47.99.70.156 -p 5022 -i ~/.ssh/aliyun_root_3.pem
+: 1536078741:0;ssh mid@47.99.70.156 -p 5022 -i ~/.ssh/aliyun_mid_1.pem
+: 1536078792:0;vi ~/.zshrc
+: 1536078809:0;source ~/.zshrc
+: 1536079177:0;ssh mid@47.99.70.156 -p 5022 -i ~/.ssh/aliyun_mid_1.pem
+: 1536079316:0;ssh moba
+: 1536079608:0;ssh mid@47.99.70.156 -p 5022 -i ~/.ssh/aliyun_mid_1.pem
+: 1536079992:0;cd /Users/Midstream/.ssh && /usr/bin/python -m SimpleHTTPServer 8080
+: 1536080321:0;ssh mid@47.99.70.156 -p 5022 -i ~/.ssh/aliyun_mid_1.pem
+: 1536083806:0;:
+: 1536083810:0;jfiejf _:
+: 1536083814:0;fjie:
+: 1536083821:0;:
+: 1536083847:0;:&
+: 1536083861:0;ll
+: 1536084223:0;vi /etc/ssh/ssh_config
+: 1536084370:0;ssh moba
+: 1536084441:0;sudo vi /etc/ssh/ssh_config
+: 1536084498:0;ssh moba-mid
+: 1536084528:0;ssh moba
+: 1536084555:0;ssh moba-mid
+: 1536084659:0;ssh moba
+: 1536116618:0;ssh moba-mid
+: 1536116656:0;ll
+: 1536116662:0;ssh moba-mid
+: 1536117038:0;ssh moba
+: 1536130251:0;dlv
+: 1536130257:0;dlv -v
+: 1536130267:0;dlv --version
+: 1536132154:0;ssh moba
+: 1536133270:0;cd  
+: 1536133347:0;ll
+: 1536133352:0;vi xxx
+: 1536133390:0;ll
+: 1536133414:0;cd /Users/Midstream/Documents/Dev/opath/src/_/moba-srv/ 
+: 1536133441:0;cd /Users/Midstream/Documents/Dev/opath/src/_/moba-srv 
+: 1536133511:0;cd /Users/Midstream/Documents/Dev/gopath/src/_/moba-srv
+: 1536133512:0;ll
+: 1536133542:0;go run arenasrv.go
+: 1536133590:0;go run centersrv.go
+: 1536140558:0;cd 
+: 1536142711:0;go install github.com/nsf/gocode\
+go install github.com/rogpeppe/godef\
+go install github.com/zmb3/gogetdoc\
+go install github.com/golang/lint/golint\
+go install github.com/lukehoban/go-outline\
+go install sourcegraph.com/sqs/goreturns\
+go install golang.org/x/tools/cmd/gorename\
+go install github.com/tpng/gopkgs\
+go install github.com/newhook/go-symbols\
+go install github.com/cweill/gotests/...\
+go install golang.org/x/tools/cmd/guru
+: 1536142787:0;delv
+: 1536142988:0;brew install go-delve/delve/delve
+: 1536143002:0;dlv version
+: 1536155384:0;lsof -i:20011
+: 1536155435:0;ps ux |grep moba
+: 1536155561:0;kill -9 32847 32848
+: 1536168885:0;ll /opt/local
+: 1536168943:0;sudo mv /opt/local ~/macports
+: 1536168970:0;brew install go-delve/delve/delve
+: 1536170417:0;ll
+: 1536170422:0;la
+: 1536170425:0;cd ~
+: 1536170426:0;ll
+: 1536170436:0;la |grep .vimrc
+: 1536170451:0;la |grep .vim
+: 1536170460:0;cd .vim
+: 1536170460:0;ll
+: 1536170462:0;la
+: 1536170465:0;cd ..
+: 1536170475:0;cd .viminfo
+: 1536170488:0;vi .viminfo
+: 1536170692:0;vi xx
+: 1536172078:0;cd /Users/Midstream/Documents/Dev/gopath/src/_/moba-srv
+: 1536172078:0;ll
+: 1536172085:0;vi arenasrv.go
+: 1536172092:0;ll
+: 1536172094:0;cd ~
+: 1536172095:0;ll
+: 1536172269:0;vi arenasrv.go
+: 1536172286:0;la
+: 1536172298:0;cd 
+: 1536172299:0;ll
+: 1536172302:0;la
+: 1536172317:0;vi .viminfo
+: 1536172370:0;cd  .vim
+: 1536172371:0;ll
+: 1536172373:0;la
+: 1536172388:0;ssh moba
+: 1536218319:0;cd /Users/Midstream/Documents/Cur/Moba2D
+: 1536692692:0;
+: 1536228070:0;ssh moba
+: 1536243915:0;l
+: 1536243924:0;la
+: 1536243926:0;l
+: 1536243942:0;cd Build
+: 1536243943:0;l
+: 1536243954:0;..
+: 1536305528:0;go help mod
+: 1536306082:0;ssh moba
+: 1536376897:0;ll
+: 1536376900:0;ls
+: 1536388148:0;ssh moba
+: 1536833564:0;./pngpacker
+: 1536913651:0;ssh moba
+: 1536917994:0;python
+: 1536918023:0;echo /usr/bin/env
+: 1536918041:0;cd /usr/bin/env
+: 1536918048:0;vim /usr/bin/env
+: 1536918069:0;#!/usr/bin/env python print "hello"
+: 1536918140:0;whereis zsh
+: 1536918152:0;whereis bash
+: 1536918163:0;l /bin
+: 1536918189:0;tcsh
+: 1536918225:0;ll
+: 1536918257:0;whereis protoc
+: 1536918264:0;bash
+: 1536918407:0;echo $GOPATH
+: 1536918413:0;echo $GOBIN
+: 1536918418:0;ll $GOBIN
+: 1536985348:0;ssh moba
+: 1537038679:0;./pngpacker
+: 1537154755:0;cd /Users/Midstream/Documents/Dev/gopath/src/_/moba-srv/
+: 1537154757:0;ll
+: 1537154763:0;./pb.sh
+: 1537171992:0;cd /Users/Midstream/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_action.go
+: 1537172008:0;cd /Users/Midstream/Documents/Dev/gopath/src/_/moba-srv/arena/game
+: 1537172017:0;...
+: 1537172018:0;ll
+: 1537172033:0;go run centersrv.go
+: 1537172047:0;go run arenasrv.go
+: 1537173661:0;cd /Users/Midstream/Documents/Cur/Moba2D/Assets/Scripts/Common/Network/Proto/
+: 1537173665:0;./pb.sh
+: 1537175257:0;go run arenasrv.go
+: 1537179151:0;./pngpacker
+: 1537206309:0;cd /Users/Midstream/Documents/Dev/gopath/src/_/moba-srv
+: 1537206319:0;go run centersrv.go
+: 1537206326:0;cd 
+: 1537206340:0;cd /Users/Midstream/Documents/Dev/gopath/src/_/moba-srv
+: 1537206347:0;go run arenasrv.go
+: 1537326195:0;go run centersrv.go
+: 1537326267:0;./pngpacker
+: 1537523801:0;go run arenasrv.go
+: 1537526998:0;./pngpacker
+: 1537688594:0;cd /Users/Midstream/Documents/Dev/gopath/src/_/moba-srv
+: 1537688599:0;go run arenasrv.go
+: 1537688618:0;go run centersrv.go
+: 1537809765:0;go run arenasrv.go
+: 1538034266:0;cd /Users/Midstream/Documents/Dev/gopath/src/_/moba-srv
+: 1538034274:0;go run centersrv.go
+: 1538034282:0;cd /Users/Midstream/Documents/Dev/gopath/src/_/moba-srv
+: 1538034289:0;go run arenasrv.go
+: 1538102311:0;cd /Users/Midstream/Documents/Dev/gopath/src/_/moba-srv
+: 1538102313:0;go run arenasrv.go
+: 1538102330:0;go run centersrv.go
+: 1538321045:0;sudo -s
+: 1538321073:0;diskutil list
+: 1538321155:0;diskutil info /Volumes/TOSHIBA\ EXT
+: 1538321188:0;umount /dev/disk2s1
+: 1538321243:0;mount_ntfs -o rw,auto,nobrowse,noowners,noatime /dev/disk2s1 ~/NTFS
+: 1538464469:0;cd 
+: 1538464602:0;cd /Users/Midstream/Documents/Dev/gopath/src/_/moba-srv/tools
+: 1538464742:0;go build pngpacker.go
+: 1538464775:0;go build
+: 1538464782:0;go build -h
+: 1538464788:0;go help build
+: 1538464958:0;./pngpacker
+: 1538465262:0;cd /Users/Midstream/Documents/Dev/gopath/src/_/moba-srv
+: 1538465297:0;go run arenasrv.go
+: 1538465310:0;cd /Users/Midstream/Documents/Dev/gopath/src/_/moba-srv
+: 1538465315:0;go run centersrv.go
+: 1538797578:0;./pngpacker
+: 1539360643:0;ll
+: 1539360646:0;cd ..
+: 1539360648:0;ll
+: 1539360653:0;cd ä¸ƒ©æƒ¸ƒ¿ssdéƒ‚ƒ¤è£ƒ¥åƒ¦ƒ¥å®¹å¤ƒ§ä»½
+: 1539360654:0;ll
+: 1539360657:0;la
+: 1539433201:0;diskutil list
+: 1539433263:0;diskutil info /Volumes/ss
+: 1539433314:0;umount /dev/disk2s1
+: 1539433396:0;sudo umount /dev/disk2s1
+: 1539433409:0;ll
+: 1539433427:0;mount_ntfs -o rw,auto,nobrowse,noowners,noatime /dev/disk2s1 ~/NTFS
+: 1539433441:0;sudo mount_ntfs -o rw,auto,nobrowse,noowners,noatime /dev/disk2s1 ~/NTFS
+: 1539611066:0;cd /Users/Midstream/Documents/Dev/gopath/src/_/moba-srv
+: 1539611067:0;ll
+: 1539611071:0;go run centersrv.go
+: 1539611081:0;cd /Users/Midstream/Documents/Dev/gopath/src/_/moba-srv
+: 1539611082:0;ll
+: 1539611087:0;go run arenasrv.go
+: 1539617628:0;cd /Users/Midstream/Downloads/GenArts.Sapphire.v10.0.For.AfterEffects-1.MACOSX-AMPED/AMPED 
+: 1539617630:0;ll
+: 1539617650:0;./rlm
+: 1539617655:0;sudo ./rlm
+: 1539617680:0;su
+: 1539617702:0;sudo ./rlmutil
+: 1539617717:0;chmod u+x rlm
+: 1539617720:0;sudo ./rlm
+: 1539762895:0;cd l
+: 1539762946:0;cd /Users/Midstream/Documents/Dev/gopath/src/_/moba-srv
+: 1539762954:0;go run centersrv.go
+: 1539762980:0;cd /Users/Midstream/Documents/Dev/gopath/src/_/moba-srv
+: 1539762987:0;go run arenasrv.go
+: 1539766764:0;cd 
+: 1539766799:0;cd  /Users/Midstream/Documents/Cur/Moba2D/Assets/Scripts/Common/Network/Proto/
+: 1539766805:0;./pb.sh
+: 1539767544:0;cd /Users/Midstream/Documents/Dev/gopath/src/_/moba-srv/
+: 1539767547:0;./pb.sh
+: 1539771125:0;go run arenasrv.go
+: 1539790850:0;go run centersrv.go
+: 1539800991:0;go run arenasrv.go
+: 1539830639:0;cd /Users/Midstream/Documents/Dev/gopath/src/_/moba-srv/
+: 1539830683:0;cd
+: 1539830684:0;..
+: 1539830687:0;cd
+: 1539830688:0;ll
+: 1539830698:0;ls
+: 1539830702:0;ls -a
+: 1539830728:0;vi .oh-my-zsh/oh-my-zsh.sh
+: 1539830824:0;vi .zshrc
+: 1539831044:0;z moba
+: 1539831110:0;z -help
+: 1539831117:0;z -h
+: 1539831210:0;z
+: 1539831245:0;z 4
+: 1539831293:0;go run centersrv.go
+: 1539831520:0;cd -
+: 1539832282:0;cd /Users/Midstream/Documents/Dev/gopath/src/_/moba-srv/
+: 1539832321:0;go run arenasrv.go
+: 1539836288:0;]
+: 1539836291:0;go run arenasrv.go
+: 1539968645:0;/Users/Midstream/Documents/Cur/Moba-res/Ws-AE/PngSeqOut/pngpacker ; exit;
+: 1539968730:0;./pngpacker
+: 1539975935:0;
+: 1540002655:0;cd /Users/Midstream/Documents/Dev/gopath/src/_/moba-srv/
+: 1540002664:0;go run centersrv.go
+: 1540002683:0;z
+: 1540002690:0;cd moba
+: 1540002709:0;cd .ssh
+: 1540002716:0;z moba
+: 1540002719:0;z .ssh
+: 1540002725:0;z moba
+: 1540002755:0;go run arenasrv.go
+: 1540009627:0;z
+: 1540009650:0;z /O
+: 1540009652:0;ll
+: 1540009672:0;./pngpacker
+: 1540192832:0;z moba
+: 1540192843:0;go run centersrv.go
+: 1540192852:0;z moba
+: 1540192856:0;go run arenasrv.go
+: 1540264922:0;./pngpacker
+: 1540266373:0;z moba
+: 1540266533:0;ls
+: 1540266548:0;./pb.sh
+: 1540266694:0;cd 
+: 1540266718:0;cd  /Users/Midstream/Documents/Cur/Moba2D/Assets/Scripts/Common/Network/Proto/
+: 1540266722:0;./pb.sh
+: 1540268031:0;go run arenasrv.go
+: 1540275858:0;./pngpacker
+: 1540291714:0;./pb.sh
+: 1540291908:0;go run arenasrv.go
+: 1540349403:0;z moba
+: 1540349408:0;go run centersrv.go
+: 1540349414:0;z moba
+: 1540349419:0;go run arenasrv.go
+: 1540350872:0;go run centersrv.go
+: 1540350878:0;go run arenasrv.go
+: 1540618844:0;z
+: 1540618849:0;z moba
+: 1540618857:0;go run centersrv.go
+: 1540618862:0;z moba
+: 1540618868:0;go run arenasrv.go
+: 1540625565:0;./pngpacker
+: 1540784710:0;z moba
+: 1540784713:0;go run centersrv.go
+: 1540784717:0;z moba
+: 1540784721:0;go run arenasrv.go
+: 1540805888:0;ll
+: 1540805898:0;sudo vi manifest.xml
+: 1540806226:0;defaults write com.adobe.CSXS.8 PlayerDebuMode 1
+: 1540806611:0;defaults write com.adobe.CSXS.8 PlayerDebugMode 1
+: 1540809860:0;./pngpacker
+: 1540959058:0;z moba
+: 1540959062:0;go run centersrv.go
+: 1540959066:0;z moba
+: 1540959069:0;go run arenasrv.go
+: 1540998285:0;/Users/Midstream/Documents/Cur/Ws-Effect/An/pngpacker ; exit;
+: 1540998347:0;./pngpacker
+: 1540999171:0;z moba
+: 1540999174:0;go run centersrv.go
+: 1540999179:0;z moba
+: 1540999185:0;go run arenasrv.go
+: 1541039989:0;z moba
+: 1541039996:0;go run centersrv.go
+: 1541040000:0;z moba
+: 1541040006:0;go run arenasrv.go
+: 1541058970:0;./pngpacker
+: 1541062515:0;go run arenasrv.go
+: 1541126784:0;z moba
+: 1541126788:0;go run centersrv.go
+: 1541126806:0;echo $GOBIN
+: 1541126827:0;ls ~/.oh-my-zsh/themes
+: 1541126843:0;ls ~/.bash_profile
+: 1541126859:0;vi ~/.bash_profile
+: 1541127142:0;la ~
+: 1541127183:0;vi ~/.bashrc
+: 1541127457:0;cd
+: 1541127458:0;ll
+: 1541127460:0;la
+: 1541127464:0;la -l
+: 1541127467:0;la -w
+: 1541127469:0;la -a
+: 1541127517:0;vi ~/.zshrc
+: 1541127631:0;vi ~/.zprofile
+: 1541127681:0;vi /etc/zprofile
+: 1541127703:0;vi /etc/zshrc
+: 1541127804:0;vi ~/.zshrc
+: 1541128642:0;vi ~/.bashrc
+: 1541128650:0;vi ~/.zshrc
+: 1541128656:0;vi /etc/zprofile
+: 1541130564:0;ssh moba
+: 1541130795:0;ssh root@47.99.70.156 -p 5022 -i ~/.ssh/aliyun_root_3.pem
+: 1541131649:0;echo $GOBIN
+: 1541131942:0;vi /etc/zprofile
+: 1541131951:0;sodu vi /etc/zprofile
+: 1541131961:0;sudo vi /etc/zprofile
+: 1541131993:0;source /etc/zprofile
+: 1541131997:0;echo $GOBIN
+: 1541132003:0;z moba
+: 1541132007:0;go run centersrv.go
+: 1541132895:0;vi /etc/ssh/ssh_config
+: 1541132951:0;ll
+: 1541132961:0;sudo vi /etc/ssh/ssh_config
+: 1541133099:0;ssh moba
+: 1541133113:0;sudo vi /etc/ssh/ssh_config
+: 1541133176:0;ssh moba
+: 1541133221:0;sudo vi /etc/ssh/ssh_config
+: 1541133295:0;ssh moba
+: 1541133339:0;sudo vi /etc/ssh/ssh_config
+: 1541133450:0;z moba
+: 1541133458:0;ssh moba
+: 1541139654:0;go run centersrv.go
+: 1541139663:0;go run arenasrv.go
+: 1541145896:0;./pngpacker
+: 1541400614:0;/Users/Midstream/Documents/SoftSetup/AEæƒ¯ƒ²ä»¶/GenArts.Sapphire.v10.0.For.AfterEffects-1.MACOSX-AMPED/AMPED/rlm ; exit;
+: 1541403801:0;./pngpacker
+: 1541408815:0;go run arenasrv.go
+: 1541412588:0;z -
+: 1541412602:0;z moba-s
+: 1541412604:0;ll
+: 1541412609:0;./pb.sh
+: 1541412636:0;cd 
+: 1541412643:0;z
+: 1541412654:0;z Moba2
+: 1541412655:0;ll
+: 1541412666:0;cd Assets/Scripts
+: 1541412667:0;ll
+: 1541412694:0;cd Common/Network
+: 1541412696:0;ll
+: 1541412713:0;cd Proto
+: 1541412713:0;ll
+: 1541412715:0;./pb.sh
+: 1541412764:0;go run arenasrv.go
+: 1541429664:0;./pngpackeR
+: 1541431513:0;./pngpacker
+: 1541520448:0;go run arenasrv.go
+: 1541558808:0;z
+: 1541558814:0;z moba-s
+: 1541558828:0;go run centersrv.go
+: 1541558834:0;z moba-s
+: 1541558838:0;go run arenasrv.go
+: 1541561841:0;./pngpacker
+: 1541602141:0;defaults write com.apple.BluetoothAudioAgent "Apple Bitpool Min (editable)" 35
+: 1541602149:0;defaults write com.apple.BluetoothAudioAgent "Apple Initial Bitpool Min (editable)" 53
+: 1541602157:0;defaults write com.apple.BluetoothAudioAgent "Apple Initial Bitpool (editable)" 35
+: 1541610141:0;./pngpacker
+: 1541610458:0;z moba-s
+: 1541610461:0;go run centersrv.go
+: 1541610465:0;z moba-s
+: 1541610470:0;go run arenasrv.go
+: 1541647636:0;cd /Users/Midstream/Documents/Soft\_Cfgs
+: 1541647679:0;git remote add origin https://github.com/lkj01010/Soft_Cfgs.git\
+
+: 1541647691:0;git push -u origin master
+: 1541650485:0;z
+: 1541650538:0;cd /Users/Midstream/Documents/SoftSetup/AEæƒ¯ƒ²ä»¶/GenArts.Sapphire.v10.0.For.AfterEffects-1.MACOSX-AMPED/AMPED 
+: 1541650547:0;./rlm
+: 1541666259:0;z moba-s
+: 1541666262:0;go run centersrv.go
+: 1541666267:0;z moba-s
+: 1541666272:0;go run arenasrv.go
+: 1541842865:0;cd /Users/Midstream/Documents/SoftSetup/AEæƒ¯ƒ²ä»¶/GenArts.Sapphire.v10.0.For.AfterEffects-1.MACOSX-AMPED/AMPED 
+: 1541842870:0;./rlm
+: 1541842883:0;cd /Users/Midstream/Documents/Soft_Setup/AEæƒ¯ƒ²ä»¶/GenArts.Sapphire.v10.0.For.AfterEffects-1.MACOSX-AMPED/AMPED 
+: 1541842887:0;./rlm
+: 1541843527:0;./pngpacker
+: 1541845157:0;z moba-s
+: 1541845162:0;go run centersrv.go
+: 1541845166:0;z moba-s
+: 1541845169:0;go run arenasrv.go
+: 1541861030:0;./pngpacker
+: 1541863145:0;sudo spctl --master-disable
+: 1542003357:0;npm
+: 1542003492:0;npm install electron
+: 1542005810:0;git clone https://github.com/electron/electron-quick-start\
+cd electron-quick-start\
+npm install\
+npm start
+: 1542006872:0;npm start
+: 1542104761:0;cd 
+: 1542104798:0;cd /Users/Midstream/Documents/Dev/gopath/src/_/moba-srv
+: 1542104803:0;./pb.sh
+: 1542104840:0;cd
+: 1542104841:0;ll
+: 1542104843:0;la
+: 1542104857:0;vi .zshrc
+: 1542105363:0;cd 
+: 1542105392:0;cd  /Users/Midstream/Documents/Cur/Moba2D/Assets/Scripts/Common/Network/Proto/
+: 1542105397:0;./pb.sh
+: 1542105599:0;go run arenasrv.go
+: 1542249080:0;z moba-s
+: 1542249083:0;go run centersrv.go
+: 1542249088:0;z moba-s
+: 1542249098:0;go run arenasrv.go
+: 1542351611:0;la
+: 1542351614:0;./rlm
+: 1542450167:0;./pngpacker
+: 1542465320:0;z moba-s
+: 1542465324:0;go run centersrv.go
+: 1542465330:0;go run arenasrv.go
+: 1542468012:0;./rlm
+: 1542470559:0;./pngpacker
+: 1542555478:0;electron
+: 1542555499:0;npm electron
+: 1542555653:0;node electron
+: 1542555690:0;node node_modules/.bin/electron
+: 1542555839:0;npm start
+: 1542555893:0;node node_modules/.bin/electron .
+: 1542556301:0;cd ..
+: 1542556309:0;git clone https://github.com/electron/electron-api-demos
+: 1542556406:0;git clone https://github.com/demopark/electron-api-demos-Zh_CN
+: 1542556444:0;cd electron-api-demos-Zh_CN
+: 1542556450:0;npm install
+: 1542557741:0;npm start
+: 1542557746:0;npm install
+: 1542557754:0;npm start
+: 1542558117:0;.
+: 1542558122:0;cd
+: 1542558153:0;z elec
+: 1542558162:0;..
+: 1542558220:0;git clone --depth=1 https://github.com/electron-react-boilerplate/electron-react-boilerplate.git DMgr
+: 1542558281:0;cd DMgr
+: 1542558287:0;yarn
+: 1542558341:0;npm install -g electron
+: 1542559069:0;brew install yarn
+: 1542559363:0;sudo chown -R $(whoami) /usr/local/sbin /usr/local/share/man/man8
+: 1542559370:0;brew install yarn
+: 1542559572:0;yarn
+: 1542559602:0;node
+: 1542559847:0;yarn
+: 1542561012:0;yarn dev
+: 1542562131:0;yarn package
+: 1542563879:0;yarn add lowdb
+: 1542564438:0;cd /Users/Midstream/Documents/Dev/Desktop/DMgr
+: 1542564447:0;git push -u origin master
+: 1542564487:0;git fetch --unshallow origin
+: 1542564512:0;git config receive.shallowupdate true
+: 1542564515:0;git push -u origin master
+: 1542564806:0;git fetch --unshallow origin
+: 1542564881:0;ll
+: 1542564886:0;git init
+: 1542564938:0;git commit -m "first commit"
+: 1542564983:0;git add
+: 1542564991:0;ga .
+: 1542564995:0;ll
+: 1542565002:0;git commit -m "first commit"
+: 1542565040:0;git remote add origin https://github.com/lkj01010/DMgr.git
+: 1542565050:0;git push -u origin master
+: 1542565418:0;yarn dev
+: 1542609170:0;yarn add semantic-ui-react
+: 1542609278:0;yarn start
+: 1542609410:0;yarn dev
+: 1542611786:0;$ yarn add semantic-ui-css
+: 1542611809:0;yarn add semantic-ui-css
+: 1542611926:0;yarn dev
+: 1542612112:0;yarn add semantic-ui --dev
+: 1542612249:0;yarn dev
+: 1542612443:0;gulp build-assets
+: 1542612560:0;yarn dev
+: 1542612613:0;gulp build
+: 1542612637:0;gulp install
+: 1542612733:0;yarn dev
+: 1542613083:0;gulp install
+: 1542613209:0;yarn dev
+: 1542615439:0;yarn add material-ui/core
+: 1542615455:0;yarn add material-ui
+: 1542615561:0;yarn dev
+: 1542615688:0;yarn add @material-ui/core
+: 1542615765:0;yarn dev
+: 1542616720:0;yarn
+: 1542616731:0;yarn help
+: 1542616859:0;yarn remove material-ui
+: 1542616876:0;yarn dev
+: 1542616975:0;yarn remove semantic-ui-react
+: 1542616995:0;yarn remove semantic-ui-css
+: 1542617034:0;yarn dev
+: 1542617215:0;yarn remove husky
+: 1542628226:0;./pngpacker
+: 1542640921:0;yarn add react-desktop
+: 1542641944:0;yarn remove react-desktop
+: 1542641972:0;yarn add @blueprintjs/core react react-dom
+: 1542644074:0;yarn remove @blueprintjs/core
+: 1542644223:0;yarn add antd
+: 1542644384:0;d
+: 1542644389:0;yarn dev
+: 1542653955:0;d
+: 1542653957:0;yarn dev
+: 1542681154:0;go run arenasrv.go
+: 1542681280:0;./pngpacker
+: 1542725042:0;yarn dev
+: 1542731959:0;./pngpacker
+: 1542731963:0;yarn dev
+: 1542768570:0;yarn add redux-actions
+: 1542772303:0;yarn dev
+: 1542786983:0;go run arenasrv.go
+: 1542792944:0;./pngpacker
+: 1542803054:0;yarn dev
+: 1542884169:0;./rlm
+: 1542899925:0;yarn dev
+: 1542961594:0;z moba-s
+: 1542961606:0;go run arenasrv.go
+: 1542961609:0;go run centersrv.go
+: 1542962796:0;./pngpacker
+: 1543071492:0;yarn dev
+: 1543170245:0;ya
+: 1543170251:0;yarn dev
+: 1543199204:0;z moba-s
+: 1543199209:0;go run centersrv.go
+: 1543199213:0;z moba-s
+: 1543199216:0;go run arenasrv.go
+: 1543309326:0;./rlm
+: 1543312239:0;./pngpacker
+: 1543459157:0;./rlm
+: 1543459210:0;z moba-s
+: 1543459214:0;go run centersrv.go
+: 1543459222:0;go run arenasrv.go
+: 1543759532:0;yarn dev
+: 1543760537:0;k
+: 1543760543:0;yarn dev
+: 1543760902:0;yarn package-all
+: 1544018477:0;./pngpacker
+: 1544241140:0;cd 
+: 1544241148:0;z moba-s
+: 1544241149:0;ll
+: 1544241154:0;go run centersrv.go
+: 1544251852:0;/etc ; exit;
+: 1544251877:0;ll
+: 1544251882:0;cd /etc
+: 1544251883:0;ll
+: 1544251899:0;la 
+: 1544251931:0;la grep| host
+: 1544251939:0;grep | la host
+: 1544251945:0;la grep
+: 1544251951:0;la host
+: 1544251953:0;la
+: 1544252003:0;la | grep host
+: 1544252011:0;vi hosts
+: 1544252073:0;sudo vi hosts
+: 1544282451:0;./rlm
+: 1544868493:0;./pngpacker
+: 1544869823:0;z moba-s
+: 1544869827:0;go run centersrv.go
+: 1544869830:0;z moba-s
+: 1544869833:0;go run arenasrv.go
+: 1544871855:0;./pngpacker
+: 1545105742:0;ssh moba
+: 1545143551:0;go run arenasrv.go
+: 1545143614:0;killall arenasrv
+: 1545143620:0;go run arenasrv.go
+: 1545143642:0;go run centersrv.go
+: 1545216093:0;./pngpacker
+: 1545275707:0;z moba-s
+: 1545275713:0;ssh moba
+: 1545276455:0;./pngpacker
+: 1545292988:0;go run arenasrv.go
+: 1545333715:0;ssh moba
+: 1545333733:0;go run centersrv.go
+: 1545334612:0;go --version
+: 1545334616:0;go version
+: 1545335341:0;killall arenasrv
+: 1545361971:0;cd 
+: 1545362017:0;cd /Users/Midstream/Documents/Cur/Moba2D/Assets/Scripts/Common/Network/Proto/
+: 1545362022:0;./pb.sh
+: 1545362067:0;cd  /Users/Midstream/Documents/Cur/Moba2D/Assets/Scripts/Common/Network/Proto/
+: 1545362162:0;.
+: 1545362164:0;..
+: 1545362183:0;z Proto
+: 1545362193:0;z moba-s
+: 1545362195:0;ll
+: 1545362197:0;./pb.sh
+: 1545386451:0;go run centersrv.go
+: 1545386541:0;echo $GOROOT
+: 1545386748:0;go run arenasrv.go
+: 1545386995:0;go
+: 1545387026:0;whereis go
+: 1545387043:0;go
+: 1545387046:0;go version
+: 1545387062:0;go
+: 1545387065:0;go version
+: 1545387069:0;whereis go
+: 1545387077:0;echo $GOBIN
+: 1545387086:0;echo $GOROOT
+: 1545387106:0;z moba-s
+: 1545387110:0;go run arenasrv.go
+: 1545387278:0;go run centersrv.go
+: 1545387878:0;go run arenasrv.go
+: 1545387893:0;go run centersrv.go
+: 1545448794:0;ssh moba
+: 1545494160:0;z moba-s
+: 1545494163:0;go run centersrv.go
+: 1545494167:0;z moba-s
+: 1545494170:0;go run arenasrv.go
+: 1545622270:0;cd 
+: 1545622286:0;cd /Users/Midstream/Documents/Dev/gopath/src/_/moba-srv
+: 1545622293:0;./pb.sh
+: 1545622330:0;cd 
+: 1545622355:0;cd /Docu/Cur/Moba
+: 1545622365:0;z /Doc/Cur/Mo
+: 1545622375:0;z
+: 1545622387:0;z Moba2D
+: 1545622415:0;cd Common/Network/Proto
+: 1545622452:0;cd Assets/Scripts/Common/Network/Proto
+: 1545622454:0;./pb.sh
+: 1545710266:0;./pngpacker
+: 1545722357:0;./rlm
+: 1545734809:0;ll
+: 1545734813:0;go build pngpacker.go
+: 1545734882:0;./pngpacker -x 6 -y 6
+: 1545734918:0;./pngpacker x=6 y=6
+: 1545735321:0;go build pngpacker.go
+: 1545735335:0;./pngpacker x=6 y=6
+: 1545735363:0;./pngpacker -x=6 -y=6
+: 1545735383:0;./pngpacker -x=6 -y=1
+: 1545735414:0;./pngpacker -x=6 -y=6
+: 1545759976:0;go build pngpacker.go
+: 1545760013:0;./pngpacker -y=6
+: 1545762701:0;go run arenasrv.go
+: 1545848850:0;./pb.sh
+: 1545850376:0;go run arenasrv.go
+: 1545881950:0;ssh moba
+: 1545893308:0;go run arenasrv.go
+: 1545903179:0;ps ux
+: 1545903185:0;ps ux |grep arena
+: 1545903205:0;go run arenasrv.go
+: 1545911668:0;go build arenasrv.go
+: 1545911692:0;go run arenasrv.go
+: 1546054283:0;go run centersrv.go
+: 1546079257:0;ps ux |grep arena
+: 1546079265:0;killall arenasrv
+: 1546079282:0;go run arenasrv.go
+: 1546161229:0;./pb.sh
+: 1546161305:0;cd Assets/Scripts/Common/Network/Proto
+: 1546161310:0;./pb.sh
+: 1546165306:0;go run arenasrv.go
+: 1546485700:0;./rlm
+: 1546570424:0;go run arenasrv.go
+: 1546605505:0;z srv
+: 1546605509:0;go run a
+: 1546605515:0;go run arenasrv.go
+: 1546605754:0;go run centersrv.go
+: 1546605762:0;go run arenasrv.go
+: 1546620537:0;./pb.sh
+: 1546627460:0;go run arenasrv.go
+: 1546657738:0;ssh moba
+: 1546662518:0;go run arenasrv.go
+: 1546675545:0;./pb.sh
+: 1546676247:0;go run arenasrv.go
+: 1546696982:0;z srv
+: 1546696985:0;go run centersrv.go
+: 1546696989:0;z srv
+: 1546696992:0;go run arenasrv.go
+: 1546830186:0;go run centersrv.go
+: 1546845363:0;go run arenasrv.go
+: 1547029918:0;ssh moba
+: 1547211441:0;z srv
+: 1547211446:0;go run centersrv.go
+: 1547311726:0;ssh moba
+: 1547624863:0;./rlm
+: 1547625467:0;./pngpacker
+: 1547625809:0;cd 
+: 1547625885:0;go build pngpacker.go
+: 1547625910:0;./pngpacker
+: 1547698007:0;ssh moba
+: 1547725130:0;./pngpacker
+: 1547807156:0;z srv
+: 1547807159:0;go run centersrv.go
+: 1547807184:0;go run arenasrv.go
+: 1547893403:0;ssh moba
+: 1548068045:0;go run arenasrv.go
+: 1548130404:0;ssh moba
+: 1548237171:0;go run arenasrv.go
+: 1548253430:0;./pb.sh
+: 1548253531:0;cd /Users/Midstream/Documents/Cur/Moba2D/Assets/Scripts/Common/Network/Proto
+: 1548253538:0;./pb.sh
+: 1548255391:0;go run arenasrv.go
+: 1548315679:0;./pb.sh
+: 1548390921:0;go run arenasrv.go
+: 1548438039:0;z srv
+: 1548438043:0;go run centersrv.go
+: 1548438051:0;go run arenasrv.go
+: 1548438127:0;go run centersrv.go
+: 1548438166:0;go run arenasrv.go
+: 1548684847:0;./pb.sh
+: 1548836006:0;ssh moba
+: 1549467206:0;
+: 1548906418:0;z srv
+: 1548906424:0;go run centersrv.go
+: 1548906432:0;go run arenasrv.go
+: 1548928319:0;go run centersrv.go
+: 1548928324:0;go run arenasrv.go
+: 1548996003:0;./pb.sh
+: 1549180016:0;ssh moba
+: 1549186835:0;./pb.sh
+: 1549186876:0;z
+: 1549186898:0;z Scripts/Pro
+: 1549186925:0;cd Assets/Scripts/Common/Network/Proto
+: 1549186931:0;./pb.sh
+: 1549469278:0;yarn dev
+: 1549857690:0;z srv
+: 1549857695:0;go run centersrv.go
+: 1549857700:0;go run arenasrv.go
+: 1549896095:0;yarn dev
+: 1549902989:0;yarn package-all
+: 1549903434:0;yarn package
+: 1549903747:0;./ElectronReact.app
+: 1549903787:0;./ElectronReact
+: 1549903828:0;cd ..
+: 1549903888:0;ll
+: 1549903921:0;ElectronReact.app
+: 1549903929:0;..
+: 1549903931:0;ll
+: 1549903967:0;open ElectronReact.app
+: 1549904474:0;yarn install update-electron-app
+: 1549904490:0;yarn add update-electron-app
+: 1549904682:0;yarn dev
+: 1549905664:0;yarn
+: 1549912787:0;yarn package
+: 1549912828:0;yarn dev
+: 1549912911:0;yarn
+: 1549912974:0;yarn dev
+: 1550047527:0;ll
+: 1550047536:0;./rlm
+: 1550145720:0;yarn dev
+: 1550631430:0;./pngpacker
+: 1551201844:0;yarn dev
+: 1551254490:0;./pngpacker
+: 1551255019:0;go run arenasrv.go
+: 1551255399:0;./pngpacker
+: 1551336869:0;go run arenasrv.go
+: 1551337947:0;./pngpacker
+: 1551416045:0;go run arenasrv.go
+: 1551773072:0;ssh moba
+: 1552141802:0;yarn dev
+: 1552415754:0;yarn add shortid
+: 1552415828:0;yarn dev
+: 1552982796:0;ssh moba
+: 1553411708:0;yarn dev
+: 1554972999:0;ssh moba
+: 1555059800:0;./pngpacker
+: 1555386755:0;ssh moba
+: 1555409111:0;cd 
+: 1555409128:0;cd  /Users/Midstream/Documents/Cur/Moba2D/Assets/Scripts/Common/Network/Proto/
+: 1555409143:0;./pb.sh
+: 1555489858:0;go run arenasrv.go
+: 1555490125:0;./pb.sh
+: 1555490243:0;./pb.sh\\
+
+: 1555490255:0;./pb.sh
+: 1555513991:0;./pb.sh\\
+
+: 1555514021:0;./pb.sh
+: 1555514061:0;cd  /Users/Midstream/Documents/Cur/Moba2D/Assets/Scripts/Common/Network/Proto/
+: 1555514254:0;./pb.sh
+: 1555514292:0;./pb.sh\\
+
+: 1555514309:0;go run arenasrv.go
+: 1555515512:0;go run centersrv.go
+: 1555515723:0;go run arenasrv.go
+: 1555556770:0;ssh moba
+: 1555677133:0;ll
+: 1555677142:0;go run arenasrv.go
+: 1555677155:0;go run centersrv.go
+: 1555728942:0;ssh moba
+: 1556161504:0;/Applications/Unicorn/PAINT/UDMPAINT.app/Contents/MacOS/CLIP\ STUDIO\ PAINT ; exit;
+: 1556161729:0;vi Csp
+: 1556161762:0;ll
+: 1556161774:0;mv Csp csp
+: 1556161775:0;ll
+: 1556161789:0;chmod u+x csp
+: 1556161790:0;ll
+: 1556161797:0;./csp
+: 1556182422:0;ssh moba
+: 1556261515:0;sudo spctl --master-disable
+: 1557389164:0;/etc ; exit;
+: 1557389195:0;/etc/
+: 1557389196:0;ll
+: 1557389207:0;sudo vim /etc/hosts
+: 1557392741:0;xcode-select --install
+: 1557393262:0;xcode-select--install
+: 1557393296:0;xcode select--install
+: 1557393303:0;xcode-select --install
+: 1558583626:0;ssh moba
+: 1558759756:0;ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+: 1558766161:0;brew doctor
+: 1558766214:0;brew install python gettext libpng jpeg libtiff giflib cairo pango libspiro czmq fontconfig automake libtool pkg-config glib pango
+: 1558774862:0;sudo brew install python gettext libpng jpeg libtiff giflib cairo pango libspiro czmq fontconfig automake libtool pkg-config glib pango
+: 1558775051:0;sudo chown -R $(whoami):admin /usr/local
+: 1558775074:0;sudo chown -R $(whoami):admin /usr/local/Cellar
+: 1558775080:0;sudo chown -R $(whoami):admin /usr/local/Homebrew
+: 1558775100:0;sudo chown -R $(whoami):admin /usr/local/Cellar
+: 1558775104:0;sudo chown -R $(whoami):admin /usr/local/lib
+: 1558775115:0;sudo brew install python gettext libpng jpeg libtiff giflib cairo pango libspiro czmq fontconfig automake libtool pkg-config glib pango
+: 1558775206:0;whoami
+: 1558775230:0;sudo chown -R $(whoami) /usr/local
+: 1558775291:0;brew install -v --debug --with-giflib --with-libspiro fontforge
+: 1558790375:0;brew install -v --with-giflib --with-libspiro fontforge
+: 1559718691:0;defaults delete -g ApplePressAndHoldEnabled
+: 1559729147:0;defaults write -g ApplePressAndHoldEnabled 0
+: 1559804543:0;ssh moba
+: 1561459435:0;./pngpacker
+: 1561459457:0;..
+: 1561459461:0;./pngpacker
+: 1561459527:0;/Users/Midstream/Documents/Cur/Ws-Effect/O_An/pngpacker ; exit;
+: 1561541011:0;./pb.sh\\
+
+: 1561541584:0;\
+ji
+: 1561541587:0;./pb.sh\\
+
+: 1561541669:0;ssh moba
+: 1561542198:0;go run centersrv.go
+: 1561629822:0;./pb.sh\\
+
+: 1561629849:0;./pngpacker
+: 1561720474:0;ssh moba
+: 1561783733:0;cd 
+: 1561783747:0;ll -a
+: 1561783748:0;ll
+: 1561783760:0;vi .zshrc
+: 1561784121:0;pngpack
+: 1561784132:0;whereis pngpack
+: 1561784163:0;protoc
+: 1561784609:0;go build pngpacker.go
+: 1561784671:0;pngpack
+: 1561784680:0;gocode
+: 1561784696:0;pngpacker
+: 1561786146:0;go build pngpacker.go
+: 1561786404:0;pngpacker
+: 1561786623:0;go install pngpacker.go
+: 1562152288:0;ssh moba
+: 1562396633:0;./pb.sh\\
+
+: 1562396646:0;ssh moba
+: 1562397653:0;./pb.sh
+: 1562398517:0;./pb.sh\\
+
+: 1562400233:0;./pb.sh
+: 1562556244:0;launchctl unload -w /System/Library/LaunchAgents/com.apple.photoanalysisd.plist
+: 1562556262:0;launchctl stop com.apple.photolibraryd
+: 1562556267:0;launchctl stop com.apple.photoanalysisd
+: 1562556275:0;launchctl unload -w /System/Library/LaunchAgents/com.apple.photoanalysisd.plist
+: 1562556282:0;sudo launchctl unload -w /System/Library/LaunchAgents/com.apple.photoanalysisd.plist
+: 1562556295:0;sudo launchctl unload -w /System/Library/LaunchAgents/com.apple.photolibraryd.plist
+: 1562556898:0;sudo mdutil -a -i off
+: 1562583041:0;sudo mdutil -E
+: 1562583055:0;sudo mdutil -i on
+: 1562593559:0;ssh moba
+: 1563012752:0;go run centersrv.go
+: 1563012762:0;go run arenasrv.go
+: 1563441191:0;sudo mdutil -i on /
+: 1563443295:0;go run arenasrv.go
+: 1563443305:0;go run centersrv.go
+: 1563443319:0;go run arenasrv.go
+: 1563528985:0;ssh moba
+: 1563957324:0;pngpacker help
+: 1563957335:0;pngpacker  -h
+: 1563957379:0;pngpacker -x 4 -y 2 
+: 1563957399:0;pngpacker x 4 y 2
+: 1563957407:0;pngpacker x=4 y=2
+: 1563957437:0;pngpacker -x=4 -y=2
+: 1564801657:0;cd /usr/Autodesk/
+: 1564801727:0;cd /Applications/Autodesk/maya2019/Maya.app/Contents/bin/
+: 1564801729:0;ll
+: 1564801735:0;mayapy
+: 1564801756:0;./mayapy
+: 1564802126:0;echo $PYTHONPATH
+: 1564806143:0;./mayapy
+: 1564807119:0;sudo easy_install pip
+: 1564807146:0;pip --version
+: 1564819308:0;curl https://bootstrap.pypa.io/get-pip.py | python3
+: 1564823050:0;/usr/local/bin/python3 -m pip install -U pylint --user
+: 1564823371:0;/usr/local/bin/python3 -m pip install -U autopep8 --user
+: 1564823955:0;python
+: 1564824038:0;$PYTHONPATH
+: 1564824044:0;echo $PYTHONPATH
+: 1564824178:0;chmod u+x
+: 1564824181:0;cd ..
+: 1564824182:0;ll
+: 1564824201:0;chmod u+w site-packages
+: 1564824263:0;cd site-packages
+: 1564824284:0;vim mid_maya2019.pth
+: 1564824297:0;ll
+: 1564824306:0;vim mid_maya2019.pth
+: 1564824322:0;sudo vim mid_maya2019.pth
+: 1564824329:0;ll
+: 1564824534:0;python
+: 1564827347:0;/etc ; exit;
+: 1564827362:0;cd /etc
+: 1564827363:0;ll
+: 1564827381:0;chmod u+w zprofile
+: 1564827395:0;sudo chmod u+w zprofile
+: 1564827421:0;vi zprofile
+: 1564827435:0;ll
+: 1564827534:0;chmod u+w zprofile
+: 1564827615:0;source zprofile
+: 1564827646:0;echo $PATH
+: 1564827662:0;mayapy
+: 1564829556:0;sudo vi maya
+: 1564830014:0;mayapy
+: 1564975652:0;cd /Users/Midstream/Documents/Cur/Ws-Maya/Scripts ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/local/bin/python3 /Users/Midstream/.vscode/extensions/ms-python.python-2019.6.24221/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 51756 /Users/Midstream/Documents/Cur/Ws-Maya/Scripts/Untitled-1.py 
+: 1564976537:0;/Applications/Autodesk/maya2019/Maya.app/Contents/bin/mayapy -m pip install -U "pylint<2.0.0" --user
+: 1564977808:0;cd /Users/Midstream/Documents/Cur/Ws-Maya/Scripts/Proj ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /Applications/Autodesk/maya2019/Maya.app/Contents/bin/mayapy /Users/Midstream/.vscode/extensions/ms-python.python-2019.6.24221/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 53298 /Users/Midstream/Documents/Cur/Ws-Maya/Scripts/Proj/111.py 
+: 1564977882:0;cd /Users/Midstream/Documents/Cur/Ws-Maya/Scripts/Proj ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /Applications/Autodesk/maya2019/Maya.app/Contents/bin/mayapy /Users/Midstream/.vscode/extensions/ms-python.python-2019.6.24221/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 53312 /Users/Midstream/Documents/Cur/Ws-Maya/Scripts/Proj/111.py 
+: 1564979345:0;/Applications/Autodesk/maya2019/Maya.app/Contents/bin/mayapy -m pip install -U autopep8 --user
+: 1564979538:0;python
+: 1564979607:0;cd /Users/Midstream/Documents/Cur/Ws-Maya/Scripts ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /Applications/Autodesk/maya2019/Maya.app/Contents/bin/mayapy /Users/Midstream/.vscode/extensions/ms-python.python-2019.6.24221/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 53870 /Users/Midstream/Documents/Cur/Ws-Maya/Scripts/xxx.py 
+: 1564979615:0;cd /Users/Midstream/Documents/Cur/Ws-Maya/Scripts ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /Applications/Autodesk/maya2019/Maya.app/Contents/bin/mayapy /Users/Midstream/.vscode/extensions/ms-python.python-2019.6.24221/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 53875 /Users/Midstream/Documents/Cur/Ws-Maya/Scripts/xxx.py 
+: 1564979667:0;cd /Users/Midstream/Documents/Cur/Ws-Maya/Scripts ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /Applications/Autodesk/maya2019/Maya.app/Contents/bin/mayapy /Users/Midstream/.vscode/extensions/ms-python.python-2019.6.24221/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 53884 /Users/Midstream/Documents/Cur/Ws-Maya/Scripts/xxx.py 
+: 1564979679:0;cd /Users/Midstream/Documents/Cur/Ws-Maya/Scripts/Proj ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /Applications/Autodesk/maya2019/Maya.app/Contents/bin/mayapy /Users/Midstream/.vscode/extensions/ms-python.python-2019.6.24221/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 53887 /Users/Midstream/Documents/Cur/Ws-Maya/Scripts/Proj/111.py 
+: 1564979885:0;cd /Users/Midstream/Documents/Cur/Ws-Maya/Scripts/Proj ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /Applications/Autodesk/maya2019/Maya.app/Contents/bin/mayapy /Users/Midstream/.vscode/extensions/ms-python.python-2019.6.24221/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 53959 /Users/Midstream/Documents/Cur/Ws-Maya/Scripts/Proj/111.py 
+: 1564979900:0;cd /Users/Midstream/Documents/Cur/Ws-Maya/Scripts/Proj ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /Applications/Autodesk/maya2019/Maya.app/Contents/bin/mayapy /Users/Midstream/.vscode/extensions/ms-python.python-2019.6.24221/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 53969 /Users/Midstream/Documents/Cur/Ws-Maya/Scripts/Proj/111.py 
+: 1564979928:0;cd /Users/Midstream/Documents/Cur/Ws-Maya/Scripts/Proj ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /Applications/Autodesk/maya2019/Maya.app/Contents/bin/mayapy /Users/Midstream/.vscode/extensions/ms-python.python-2019.6.24221/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 53978 /Users/Midstream/Documents/Cur/Ws-Maya/Scripts/Proj/test.py 
+: 1564993857:0;cd /Users/Midstream/Documents/Cur/Ws-Maya/Scripts/Proj ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /Applications/Autodesk/maya2019/Maya.app/Contents/bin/mayapy /Users/Midstream/.vscode/extensions/ms-python.python-2019.6.24221/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 50554 /Users/Midstream/Documents/Cur/Ws-Maya/Scripts/xxx.py 
+: 1564997764:0;sudo dscacheutil -flushcache
+: 1565000815:0;mayapy
+: 1565075028:0;cd /Users/Midstream/Documents/Cur/Ws-Maya/Scripts/Proj ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /Applications/Autodesk/maya2019/Maya.app/Contents/bin/mayapy /Users/Midstream/.vscode/extensions/ms-python.python-2019.6.24221/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 58459 /Users/Midstream/Documents/Cur/Ws-Maya/Scripts/Proj/111.py 
+: 1565079759:0;cd /Users/Midstream/Library/Preferences/Autodesk/maya/2019/scripts ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /Applications/Autodesk/maya2019/Maya.app/Contents/Frameworks/Python.framework/Versions/Current/Resources/Python.app/Contents/MacOS/Python /Users/Midstream/.vscode/extensions/ms-python.python-2019.6.24221/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 60895 /Users/Midstream/Library/Preferences/Autodesk/maya/2019/scripts/pyTest.py 
+: 1565080321:0;npm install
+: 1565081198:0;npm start
+: 1565081255:0;npm vscode:prepublish
+: 1565264014:0;echo $GO
+: 1565264027:0;echo $GOPATH
+: 1565264037:0;echo $PYTHONPATH
+: 1565269671:0;/etc ; exit;
+: 1565269687:0;.
+: 1565269689:0;..
+: 1565269700:0;sudu vi zprofile
+: 1565269708:0;sudo vi zprofile
+: 1565271566:0;source zprofile
+: 1565271570:0;echo $PYTHONPATH
+: 1565318706:0;sudo vi zprofile
+: 1565318852:0;source zprofile
+: 1565318854:0;echo $PYTHONPATH
+: 1565318959:0;sudo vi zprofile
+: 1565318980:0;source zprofile
+: 1565318993:0;echo $PYTHONPATH
+: 1565319031:0;sudo vi zprofile
+: 1565319041:0;source zprofile
+: 1565319044:0;echo $PYTHONPATH
+: 1565320253:0;echo $GOPATH
+: 1565320261:0;sudo vi zprofile
+: 1565320325:0;echo $PYTHONPATH
+: 1565320331:0;sudo vi zprofile
+: 1565320380:0;echo $PATH
+: 1565320508:0;source zprofile
+: 1565320513:0;echo $PYTHONPATH
+: 1565320523:0;source zprofile
+: 1565320527:0;sudo vi zprofile
+: 1565320609:0;source zprofile
+: 1565320613:0;echo $PYTHONPATH
+: 1565320696:0;sudo vi zprofile
+: 1565320831:0;mayapy
+: 1565580076:0;/Users/Midstream/Downloads/cinema4d_r20_sp2_20_059_c4dpy_20190326/c4dpy.app 
+: 1565580093:0;print hello
+: 1565594809:0;cd /Users/Midstream/Documents/Dev/game/C4d/cinema4d-scripts ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python /Users/Midstream/.vscode/extensions/ms-python.python-2019.8.29288/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 50847 /Users/Midstream/Documents/Dev/game/C4d/cinema4d-scripts/AR_AxisCenter.py 
+: 1565594837:0;cd /Users/Midstream/Documents/Dev/game/C4d/cinema4d-scripts ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python /Users/Midstream/.vscode/extensions/ms-python.python-2019.8.29288/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 50873 /Users/Midstream/Documents/Dev/game/C4d/cinema4d-scripts/AR_AxisCenter.py 
+: 1565594945:0;exit()\
+\
+\
+\
+\
+\
+
+: 1565594957:0;/Applications/MAXON/Cinema 4D R20/c4dpy.app/Contents/MacOS/c4dpy
+: 1565594993:0;//Applications//MAXON//Cinema 4D R20//c4dpy.app//Contents//MacOS//c4dpy
+: 1565595343:0;/Applications/MAXON/Cinema\ 4D\ R20/c4dpy.app
+: 1565595401:0;print hello
+: 1565595410:0;echo $PYTHONPATH
+: 1565595441:0;cd Contents/MacOS
+: 1565595446:0;ll
+: 1565595452:0;c4dpy
+: 1565595457:0;./c4dpy
+: 1565595488:0;pwd
+: 1565595553:0;cd /Applications/MAXON/Cinema\ 4D\ R20/c4dpy.app/Contents/MacOS/
+: 1565595964:0;/Applications/Autodesk/maya2019/Maya.app/Contents/Frameworks/Python.framework/Versions/Current/Resources/Python.app/Contents/MacOS/Python /Users/Midstream/Documents/Soft_Cfgs/C4d/C4dScripts/test2.py
+: 1565607283:0;sudo xattr -rd com.apple.quarantine /Applications/3DCoat-4.8.32/3D-Coat.app
+: 1565607350:0;ll
+: 1565607382:0;sudo chmod 777 3D-Coat
+: 1565607385:0;ll
+: 1565686910:0;pip install --index-url=http://download.qt.io/snapshots/ci/pyside/5.13/latest/ pyside2 --trusted-host download.qt.io
+: 1565687042:0;sudo pip install --index-url=http://download.qt.io/snapshots/ci/pyside/5.13/latest/ pyside2 --trusted-host download.qt.i
+: 1565687131:0;sudo pip install --index-url=http://download.qt.io/snapshots/ci/pyside/5.13/latest/ pyside2 --trusted-host download.qt.io
+: 1565687837:0;python
+: 1565688627:0;python /Users/Midstream/Documents/Soft_Cfgs/Maya/MayaScripts/console_test.py
+: 1565689208:0;python gdb
+: 1565689210:0;python
+: 1565690050:0;echo $MAYA_LOCATION
+: 1565691765:0;python 
+: 1565718073:0;mayapy
+: 1565719373:0;/etc ; exit;
+: 1565719399:0;cd /etc
+: 1565719404:0;sudo vi zprofile
+: 1565719810:0;source zprofile
+: 1565719833:0;sudo vi zprofile
+: 1565719861:0;source zprofile
+: 1565719871:0;sudo vi zprofile
+: 1565719960:0;source zprofile
+: 1565720222:0;echo $PATHONPATH
+: 1565720230:0;echo $PYTHONPATH
+: 1565720245:0;python
+: 1565720285:0;sudo vi zprofile
+: 1565720322:0;source zprofile
+: 1565720326:0;python
+: 1565720725:0;mayapy
+: 1565778036:0;print hello

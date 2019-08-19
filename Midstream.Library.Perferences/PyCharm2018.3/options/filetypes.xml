@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern=".mel" type="PLAIN_TEXT" />
+      <mapping pattern="ftp" type="Python" />
+      <removed_mapping pattern="ftp.py" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="melTest.mel" approved="true" type="Python" />
+    </extensionMap>
+  </component>
+</application>

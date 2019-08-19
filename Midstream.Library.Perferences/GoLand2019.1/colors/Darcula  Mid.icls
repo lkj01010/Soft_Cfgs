@@ -1,0 +1,60 @@
+<scheme name="Darcula  Mid" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2018-09-06T17:41:57</property>
+    <property name="description">goland 
+Darcula Mid</property>
+    <property name="ide">GoLand</property>
+    <property name="ideVersion">2018.2.2.0.0</property>
+    <property name="modified">2019-06-27T01:10:48</property>
+    <property name="originalScheme">_@user_Darcula</property>
+    <property name="vendorMail">lkj01010@163.com</property>
+    <property name="vendorName">Darcula Mid Theme</property>
+    <property name="vendorUrl">http://</property>
+    <property name="version">0.2</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Roboto Mono Medium for Powerline" />
+  <attributes>
+    <option name="DEFAULT_CLASS_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="6ca3cb" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="DEFAULT_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="a584f4" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
+    <option name="DEFAULT_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="c687c8" />
+      </value>
+    </option>
+    <option name="DEFAULT_STRING">
+      <value>
+        <option name="FOREGROUND" value="779764" />
+      </value>
+    </option>
+    <option name="GO_BUILTIN_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="ffc66d" />
+      </value>
+    </option>
+    <option name="GO_EXPORTED_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="ffc66d" />
+      </value>
+    </option>
+    <option name="GO_LOCAL_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="ffc66d" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

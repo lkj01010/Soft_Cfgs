@@ -1,0 +1,31 @@
+<application>
+  <component name="RiderRecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Documents/Cur/Moba2D/Moba2D.sln" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Documents/Cur/Moba2D/Moba2D.sln" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Documents/Cur/Moba2D/Moba2D.sln" />
+    <option name="pid" value="1070" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Documents/Cur/Moba2D/Moba2D.sln">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="RD-182.4231.496" />
+              <option name="productionCode" value="RD" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1564375419898" />
+              <option name="buildTimestamp" value="1536826836630" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

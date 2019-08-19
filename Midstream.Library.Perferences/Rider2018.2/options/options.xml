@@ -1,0 +1,32 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="212-110-109-255,,,195-200-214-255,,,184-189-199-255,,,223-116-115-255,,,247-200-138-255,,,249-197-127-255,,,249-209-114-255,,,246-203-115-255,,,230-189-108-255,,,214-176-100-255,,,222-183-104-255,,,72-172-241-255,,,157-130-242-255,,,194-122-211-255,,,207-171-105-255,,,165-132-244-255,,,162-166-175-255,,,165-169-178-255,,,172-176-185-255,,,0-255-46-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6571856" />
+    <property name="Darcula.savedEditorTheme" value="Atom One Dark Mid " />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="INSPECTION_FILTER_HISTORY" value="auto&#10;private&#10;constant&#10;const&#10;for-&#10;inline&#10;namespace&#10;namespa" />
+    <property name="INTENTION_FILTER_HISTORY" value="p&#10;auto&#10;aut" />
+    <property name="KEYMAP" value="zoom&#10;D&#10;struct&#10;back&#10;break" />
+    <property name="PLUGIN_FILTER" value="unity&#10;color&#10;bash&#10;codeg&#10;vim" />
+    <property name="RD.Init.Cfg.2" value="true" />
+    <property name="RD.Init.DialogShown.Ide" value="true" />
+    <property name="SearchEveryWhereHistory" value="skillEn&#10;skill&#10;resf&#10;char&#10;chara" />
+    <property name="SettingsSearchHistory" value="esc&#10;update&#10;wrap&#10;line wrap&#10;format" />
+    <property name="change.laf.on.editor.theme.change" value="true" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="evlsprt3.182" value="10" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/Cur/Moba2D/Assets/Shaders/ShadowRRT.shader&#10;/Users/Midstream/Downloads/1433953583.jar&#10;/Users/Midstream/Documents/Cur/Moba2D" />
+    <property name="file.gist.reindex.count" value="29" />
+    <property name="ideavim.statistics.timestamp" value="1563870668961" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="last_open_solution_path" value="$USER_HOME$/Documents/Cur/Moba2D" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="" />
+    <property name="selected.color.option.type" value="REGEXP.ESC_CHARACTER" />
+    <property name="settings.code.style.selected.tab.C#" value="Tabs, Indents, Alignment" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.0.1" />
+  </component>
+</application>

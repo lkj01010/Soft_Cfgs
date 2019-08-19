@@ -1060,7 +1060,7 @@ class Tool(QtGui.QMainWindow):
 
         ### Mid
         def nix_exec():
-            res = subprocess.Popen("ps aux | grep 3D-Coat", shell=True, stdout=subprocess.PIPE)
+            res = subprocess.Popen("ps aux", shell=True, stdout=subprocess.PIPE)
             with res.stdout as f:
                 for line in f:
                     if line.rfind('3D-Coat') != -1:

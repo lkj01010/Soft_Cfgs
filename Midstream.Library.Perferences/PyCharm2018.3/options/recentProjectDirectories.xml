@@ -1,0 +1,94 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Documents/Soft_Cfgs/Maya" />
+        <option value="$USER_HOME$/Documents/Soft_Cfgs/C4d/C4dScripts" />
+        <option value="$USER_HOME$/Library/Preferences/Autodesk/maya/2019/scripts" />
+        <option value="$USER_HOME$/Documents/Cur/Ws-Maya/Scripts/Proj" />
+        <option value="$USER_HOME$/Documents/Dev/git-me/mypy" />
+        <option value="$USER_HOME$/Documents/Cfgs/MacUtils/FTP" />
+        <option value="/Applications/Blender/blender.app/Contents/Resources/2.79/scripts" />
+        <option value="$USER_HOME$/Documents/Dev/git-me/pytest" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Documents/Soft_Cfgs/Maya" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Documents/Soft_Cfgs/Maya" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Documents/Cur/Ws-Maya/Scripts/Proj">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-183.6156.16" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1565068127016" />
+              <option name="buildTimestamp" value="1562697878748" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Soft_Cfgs/C4d/C4dScripts">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-183.6156.16" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1565632148341" />
+              <option name="buildTimestamp" value="1562697864851" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Soft_Cfgs/Maya">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-183.6156.16" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1566014685690" />
+              <option name="buildTimestamp" value="1562697856725" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Soft_Cfgs/Maya/MayaScripts">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-183.6156.16" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1565976597327" />
+              <option name="buildTimestamp" value="1562697883440" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Library/Preferences/Autodesk/maya/2019/plug-ins/plug-ins">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-183.6156.16" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1565839721350" />
+              <option name="buildTimestamp" value="1562697883440" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Library/Preferences/Autodesk/maya/2019/scripts">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-183.6156.16" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1565319111267" />
+              <option name="buildTimestamp" value="1562697844992" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/Documents/Cur/Ws-Maya/Scripts" />
+  </component>
+</application>

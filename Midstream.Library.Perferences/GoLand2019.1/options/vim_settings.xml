@@ -1,0 +1,318 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/skill_11_deadmiss.go" timestamp="1563288878409">
+        <mark key="'" line="63" column="12" />
+        <mark key="[" line="28" column="19" />
+        <mark key="]" line="28" column="19" />
+        <mark key="^" line="28" column="19" />
+        <mark key="." line="28" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/skill_10_glacial.go" timestamp="1563015412710">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1563012690334">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" timestamp="1566014312603">
+        <mark key="'" line="839" column="29" />
+        <mark key="[" line="849" column="49" />
+        <mark key="]" line="849" column="52" />
+        <mark key="^" line="849" column="52" />
+        <mark key="." line="849" column="52" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/com/gd/CharacterCfg.json" timestamp="1566013492457" />
+      <file name="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_action.go" timestamp="1566014503129">
+        <mark key="'" line="191" column="0" />
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="4" />
+        <mark key="^" line="426" column="6" />
+        <mark key="." line="4" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/glib/entity.go" timestamp="1563010626200">
+        <mark key="[" line="60" column="36" />
+        <mark key="]" line="60" column="36" />
+        <mark key="." line="60" column="36" />
+        <mark key="^" line="47" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/skill_6_knight.go" timestamp="1566013875174">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="200" column="90" />
+        <mark key="]" line="200" column="89" />
+        <mark key="." line="200" column="89" />
+        <mark key="^" line="200" column="89" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/skill_7_bomber.go" timestamp="1566013945540">
+        <mark key="'" line="82" column="55" />
+        <mark key="[" line="62" column="32" />
+        <mark key="]" line="63" column="41" />
+        <mark key="." line="63" column="41" />
+        <mark key="^" line="63" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/skill_5_eboy.go" timestamp="1566012770768">
+        <mark key="[" line="83" column="9" />
+        <mark key="]" line="84" column="7" />
+        <mark key="." line="84" column="7" />
+        <mark key="^" line="84" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/skill_2_mage.go" timestamp="1563015434167">
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="181" column="0" />
+        <mark key="." line="181" column="0" />
+        <mark key="^" line="188" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/skill_9_blademaster.go" timestamp="1566013658441">
+        <mark key="'" line="31" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/skill_8_priest.go" timestamp="1563015673179">
+        <mark key="[" line="45" column="20" />
+        <mark key="]" line="46" column="22" />
+        <mark key="^" line="46" column="22" />
+        <mark key="." line="46" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/skill_3_archer.go" timestamp="1563015443145">
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="150" column="0" />
+        <mark key="." line="150" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/skill_4_assassin.go" timestamp="1563015446197">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/skillentity.go" timestamp="1563016439264">
+        <mark key="'" line="146" column="21" />
+        <mark key="[" line="116" column="6" />
+        <mark key="]" line="118" column="13" />
+        <mark key="^" line="118" column="13" />
+        <mark key="." line="118" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_sense.go" timestamp="1566014376162" />
+      <file name="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game.go" timestamp="1566013374301" />
+      <file name="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/skill_13_soldier.go" timestamp="1563015422313">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="49" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/cmp_call.go" timestamp="1566013479598" />
+    </filemarks>
+    <jumps>
+      <jump line="199" column="46" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/gmap/mapinfo.go" />
+      <jump line="96" column="0" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/ai_player.go" />
+      <jump line="48" column="4" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="995" column="40" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="188" column="32" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/proto/x.arena.proto" />
+      <jump line="61" column="29" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_action.go" />
+      <jump line="225" column="8" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/gmap/mapinfo.go" />
+      <jump line="163" column="4" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/gmap/mapinfo.go" />
+      <jump line="176" column="20" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/com/gd/CharacterCfg.json" />
+      <jump line="48" column="19" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/cmp.go" />
+      <jump line="290" column="16" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game.go" />
+      <jump line="127" column="34" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="81" column="21" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="59" column="21" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="18" column="4" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="1006" column="47" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="671" column="58" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="946" column="19" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="6" column="9" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/cmp_call.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/cmp_call.go" />
+      <jump line="53" column="4" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/glib/entity.go" />
+      <jump line="121" column="92" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/msgdec/dec_game.go" />
+      <jump line="155" column="8" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/skill_3_archer.go" />
+      <jump line="68" column="27" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/skill_5_eboy.go" />
+      <jump line="63" column="5" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/enc_game.go" />
+      <jump line="17" column="32" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/skill_7_bomber.go" />
+      <jump line="17" column="4" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/skillentity.go" />
+      <jump line="933" column="15" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="898" column="20" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="855" column="20" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="826" column="24" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="819" column="30" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="790" column="25" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="854" column="19" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="278" column="12" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="251" column="16" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="235" column="12" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="870" column="42" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="916" column="43" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="892" column="42" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="266" column="15" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="805" column="16" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="915" column="37" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="899" column="31" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="674" column="34" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="693" column="24" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="876" column="37" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="878" column="33" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="904" column="27" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="886" column="42" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="726" column="4" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="23" column="4" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/skillentity.go" />
+      <jump line="38" column="21" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/skill_7_bomber.go" />
+      <jump line="33" column="19" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/skill_7_bomber.go" />
+      <jump line="863" column="25" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="822" column="25" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="641" column="74" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="31" column="32" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_update.go" />
+      <jump line="143" column="6" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game.go" />
+      <jump line="28" column="4" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/player.go" />
+      <jump line="4" column="22" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/player.go" />
+      <jump line="0" column="8" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/player.go" />
+      <jump line="343" column="6" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/player.go" />
+      <jump line="338" column="22" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/player.go" />
+      <jump line="336" column="6" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/player.go" />
+      <jump line="21" column="31" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/proto/x.center.proto" />
+      <jump line="386" column="28" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/proto/x.arena.proto" />
+      <jump line="156" column="0" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/manager/gamemgr.go" />
+      <jump line="104" column="35" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/manager/gamemgr.go" />
+      <jump line="371" column="20" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/manager/gamemgr.go" />
+      <jump line="270" column="1" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/com/gd/MapThemeCfg.json" />
+      <jump line="61" column="34" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/tools/pngpacker.go" />
+      <jump line="63" column="38" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/tools/pngpacker.go" />
+      <jump line="76" column="12" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/tools/pngpacker.go" />
+      <jump line="133" column="20" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/tools/pngpacker.go" />
+      <jump line="112" column="12" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/tools/pngpacker.go" />
+      <jump line="91" column="20" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/tools/pngpacker.go" />
+      <jump line="110" column="12" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/tools/pngpacker.go" />
+      <jump line="89" column="20" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/tools/pngpacker.go" />
+      <jump line="86" column="24" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/tools/pngpacker.go" />
+      <jump line="84" column="24" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/tools/pngpacker.go" />
+      <jump line="82" column="20" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/tools/pngpacker.go" />
+      <jump line="76" column="76" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/skill_7_bomber.go" />
+      <jump line="112" column="76" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/skill_7_bomber.go" />
+      <jump line="77" column="55" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/skill_7_bomber.go" />
+      <jump line="95" column="5" filename="/usr/local/go/src/encoding/json/decode.go" />
+      <jump line="131" column="10" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/skillentity.go" />
+      <jump line="116" column="35" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/skillentity.go" />
+      <jump line="144" column="21" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/skillentity.go" />
+      <jump line="1010" column="22" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="952" column="22" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="842" column="29" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="835" column="29" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_motion.go" />
+      <jump line="31" column="8" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/skill_9_blademaster.go" />
+      <jump line="55" column="28" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/skill_9_blademaster.go" />
+      <jump line="38" column="12" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/skill_11_deadmiss.go" />
+      <jump line="174" column="57" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/skill_6_knight.go" />
+      <jump line="210" column="0" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/skill_6_knight.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/skill_6_knight.go" />
+      <jump line="191" column="0" filename="$USER_HOME$/Documents/Dev/gopath/src/_/moba-srv/arena/game/game_action.go" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>proto2</text>
+      </register>
+      <register name="-" type="4">
+        <text>proto2</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxjc1w+</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZS5EaWVUeXBlID0gU2VEaWVUeXBlQ29sbGlkZUVuZW15Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGlmIHMuRGllVHlwZSAhPSBTZURpZVR5cGVOb25lIHsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlLkRpZVR5cGUgPSBTZURpZVR5cGVDb2xsaWRlRW5lbXkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2UuRGllVHlwZSA9IFNlRGllVHlwZUNvbGxpZGVFbmVteQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2UuRGllVHlwZSA9IFNlRGllVHlwZUNvbGxpZGVFbmVteQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2UuRGllVHlwZSA9IFNlRGllVHlwZUNvbGxpZGVFbmVteQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2UuRGllVHlwZSA9IFNlRGllVHlwZUNvbGxpZGVFbmVteQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>wq</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxjc1w+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxjc1w+</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute encoding="base64">XDxOZWVkQ2FsY0NvbGxpc2lvbldpdGhXYWxsXD4=</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxtb3ZlT3BUeXBlTW92ZVw+</entry>
+        <entry encoding="base64">XDxEcml2ZU1vdmVZXD4=</entry>
+        <entry encoding="base64">XDxDb2xsaXNpb25XYWxsVHlwZVw+</entry>
+        <entry encoding="base64">XDxlbmNvZGVTa2lsbEVudGl0eVw+</entry>
+        <entry encoding="base64">XDxEaWVDYlw+</entry>
+        <entry encoding="base64">XDxJc0RpZVw+</entry>
+        <entry encoding="base64">XDxTdWJQZXJjZW50XD4=</entry>
+        <entry encoding="base64">XDxOYXJyb3dQaGFzZVhcPg==</entry>
+        <entry encoding="base64">XDxTZXRQb3NcPg==</entry>
+        <entry encoding="base64">XDxlbnRpdHlNb3ZlQWdhaW5zdFdhbGxcPg==</entry>
+        <entry encoding="base64">XDxOZXh0WVw+</entry>
+        <entry encoding="base64">XDxTdWJYXD4=</entry>
+        <entry encoding="base64">XDxOYXJyb3dQaGFzZVBlcmNlbnRcPg==</entry>
+        <entry encoding="base64">XDxzdGVwTmFycm93UGhhc2VcPg==</entry>
+        <entry encoding="base64">XDxmaW5hbERpc3RcPg==</entry>
+        <entry encoding="base64">XDxza2lsbEVudGl0aWVzXD4=</entry>
+        <entry encoding="base64">XDxnYW1lXD4=</entry>
+        <entry encoding="base64">XDxBbmdsZVw+</entry>
+        <entry encoding="base64">XDxJc0hpdFw+</entry>
+        <entry encoding="base64">XDxjc1w+</entry>
+      </history-search>
+      <history-cmd>
+        <entry>wq</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

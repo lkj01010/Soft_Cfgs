@@ -1,0 +1,9 @@
+<application>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
+  <component name="Go">
+    <option name="detectGoPackageFromClipboard" value="false" />
+    <option name="renamePackageOnDirectoryRenaming" value="YES" />
+  </component>
+</application>

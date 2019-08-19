@@ -1,0 +1,10 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <option name="LAST_BUILD_CHECKED" value="PY-183.6156.16" />
+    <option name="LAST_TIME_CHECKED" value="1565976720955" />
+    <pluginHosts>
+      <item value="http://plugins.jetbrains.com/plugin/7374?pr=idea_ce" />
+    </pluginHosts>
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+  </component>
+</application>

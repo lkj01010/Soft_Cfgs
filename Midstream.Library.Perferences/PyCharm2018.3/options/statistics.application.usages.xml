@@ -1,0 +1,47 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="module type">
+      <project id="Proj" values="PYTHON_MODULE" collectionTime="1564825812153" />
+      <project id="scripts" values="PYTHON_MODULE" collectionTime="1535859928740" />
+      <project id="mypy" values="PYTHON_MODULE" collectionTime="1537424902725" />
+      <project id="pytest" values="PYTHON_MODULE" collectionTime="1446906195207" />
+    </group>
+    <group name="py-interpreter">
+      <project id="Proj" values="Python 2.7.6" collectionTime="1564825812178" />
+      <project id="scripts" values="Python 2.7.6" collectionTime="1535859928769" />
+      <project id="mypy" values="Python 2.7.6" collectionTime="1537424902749" />
+      <project id="pytest" values="Python 2.7.6" collectionTime="1446906195247" />
+    </group>
+    <group name="vcs">
+      <project id="mypy" values="Git" collectionTime="1537424902725" />
+    </group>
+    <group name="file-type">
+      <project id="Proj" values="UNKNOWN,Python,PLAIN_TEXT,XML" collectionTime="1564825812174" />
+      <project id="scripts" values="UNKNOWN,C++,Images,PLAIN_TEXT,ARCHIVE,JavaScript,ReST,CSS,XML,Python,HTML" collectionTime="1535859928765" />
+      <project id="mypy" values="UNKNOWN,Python,HTML,CSS,PLAIN_TEXT,XML" collectionTime="1537424902742" />
+      <project id="pytest" values="UNKNOWN,XML,Python,PLAIN_TEXT" collectionTime="1446906195243" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="mypy" values="PythonConfigurationType" collectionTime="1537424902726" />
+      <project id="pytest" values="PythonConfigurationType" collectionTime="1446906195208" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="3" />
+      <entry feature="NewDirectoryProjectAction.Pure Python" count="3" />
+      <entry feature="execute.PythonConfigurationType.Debug" count="185" />
+      <entry feature="execute.PythonConfigurationType.Run" count="3" />
+      <entry feature="ide.settings.Appearance" count="8" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="32" />
+      <entry feature="ide.settings.Custom_Plugin_Repositories" count="1" />
+      <entry feature="ide.settings.HTTP_Proxy" count="2" />
+      <entry feature="ide.settings.Keymap" count="5" />
+      <entry feature="ide.settings.Project_Interpreter" count="4" />
+      <entry feature="ideaapp.started" count="41" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="2" />
+      <entry feature="welcome.screen.null" count="4" />
+    </counts>
+  </component>
+</application>

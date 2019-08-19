@@ -1,0 +1,79 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Documents/Dev/gopath" />
+        <option value="$USER_HOME$/Documents/Dev/Desktop/DMgr" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Documents/Dev/gopath" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Documents/Dev/gopath" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Documents/Dev/Desktop/DMgr">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="GO-182.4129.57" />
+              <option name="productionCode" value="GO" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1549514259037" />
+              <option name="buildTimestamp" value="1535043377548" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Dev/game">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="GO-171.4424.55" />
+              <option name="productionCode" value="GO" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1497685627632" />
+              <option name="buildTimestamp" value="1494585107597" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Dev/game/Unity3d/openSource/Rpg">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="GO-171.4694.35" />
+              <option name="productionCode" value="GO" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1497686402573" />
+              <option name="buildTimestamp" value="1497014040160" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Dev/gopath">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="GO-191.7141.62" />
+              <option name="productionCode" value="GO" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1566011895594" />
+              <option name="buildTimestamp" value="1557972296551" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Dev/web/wxmp/horn-wx">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="GO-163.12024.27" />
+              <option name="productionCode" value="GO" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1489564234535" />
+              <option name="buildTimestamp" value="1486391206614" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

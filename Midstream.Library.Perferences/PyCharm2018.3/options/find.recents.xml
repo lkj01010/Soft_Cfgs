@@ -1,0 +1,10 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>Missing argument</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/Documents/Dev/git-me/mypy</dir>
+    </dirStrings>
+  </component>
+</application>

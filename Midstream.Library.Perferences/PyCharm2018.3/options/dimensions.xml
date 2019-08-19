@@ -1,0 +1,82 @@
+<application>
+  <component name="DimensionService">
+    <location key="GitCloneDialog.0.0.1920.1080" x="733" y="367" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="939" y="463" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="651" y="379" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" x="644" y="358" />
+    <location key="SettingsEditor.0.0.1920.1080" x="569" y="155" />
+    <location key="#Browse_JetBrains_Plugins_.0.0.1920.1080" x="589" y="327" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080" x="808" y="419" />
+    <location key="findTextDialog.0.0.1920.1080" x="1054" y="397" />
+    <location key="Vcs.Push.Dialog.0.0.1920.1080" x="530" y="301" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="372" y="232" />
+    <location key="git4idea.merge.GitPullDialog.0.0.1920.1080" x="682" y="336" />
+    <location key="#Custom_Plugin_Repositories.0.0.1920.1080" x="1316" y="472" />
+    <location key="#Browse_Repositories.0.0.1920.1080" x="1043" y="314" />
+    <location key="#HTTP_Proxy.0.0.1920.1080" x="772" y="396" />
+    <location key="DiffContextDialog.0.0.1920.1080" x="113" y="144" />
+    <location key="RollbackChangesDialog.0.0.1920.1080" x="615" y="315" />
+    <location key="IdeErrosDialog.0.0.1920.1080" x="573" y="397" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1440.900" x="418" y="290" />
+    <location key="SettingsEditor.0.0.1440.900" x="181" y="125" />
+    <location key="git4idea.merge.GitPullDialog.0.0.1440.900" x="439" y="260" />
+    <location key="DiffContextDialog.0.0.1440.900" x="100" y="123" />
+    <location key="RollbackChangesDialog.0.0.1440.900" x="485" y="195" />
+    <location key="WELCOME_SCREEN.0.0.1440.900" x="699" y="230" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.2560.1440" x="975" y="558" />
+    <location key="WELCOME_SCREEN.0.0.2560.1440" x="1256" y="583" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.2560.1440" x="996" y="536" />
+    <location key="#Browse_Repositories.0.0.2560.1440" x="844" y="392" />
+    <location key="SettingsEditor.0.0.2560.1440" x="1192" y="616" />
+    <location key="FileChooserDialogImpl.0.0.2560.1440" x="1464" y="674" />
+    <location key="ProcessPopupWindow.0.0.2560.1440" x="1125" y="1132" />
+    <location key="IDE.errors.dialog.0.0.2560.1440" x="1256" y="649" />
+    <location key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1.0.0.2560.1440" x="1427" y="788" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.2560.1440" x="1085" y="325" />
+    <location key="#Notifications.0.0.2560.1440" x="1582" y="419" />
+    <location key="PyMappingSimpleResolveDialog.0.0.2560.1440" x="1681" y="439" />
+    <location key="#Scopes.0.0.2560.1440" x="1623" y="812" />
+    <location key="#Inspections.0.0.2560.1440" x="1168" y="537" />
+    <location key="find.popup.0.0.2560.1440" x="1529" y="590" />
+    <location key="StructurePopup.0.0.1920.1080" x="937" y="290" />
+    <location key="#Scopes.0.0.1920.1080" x="1041" y="417" />
+    <location key="bookmarks.0.0.2560.1440" x="1166" y="701" />
+    <location key="#xdebugger.evaluate.0.0.2560.1440" x="1793" y="530" />
+    <location key="search.everywhere.popup.0.0.2560.1440" x="1484" y="335" />
+    <location key="StructurePopup.0.0.2560.1440" x="1549" y="441" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1269" height="261" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1269" height="261" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1269" height="261" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1269" height="261" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1269" height="261" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1269" height="261" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1269" height="261" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1269" height="261" />
+    <size key="DebuggerActiveHint.0.0.1920.1080" width="1706" height="400" />
+    <size key="DiffContextDialog.0.0.1920.1080" width="1492" height="873" />
+    <size key="javadoc.popup.0.0.1920.1080" width="481" height="169" />
+    <size key="DiffContextDialog.0.0.1440.900" width="1196" height="677" />
+    <size key="ProcessPopupWindow.0.0.2560.1440" width="675" height="199" />
+    <size key="GridCell.Tab.0.left.0.0.2560.1440" width="1346" height="362" />
+    <size key="GridCell.Tab.0.center.0.0.2560.1440" width="1346" height="362" />
+    <size key="GridCell.Tab.0.right.0.0.2560.1440" width="1346" height="362" />
+    <size key="GridCell.Tab.0.bottom.0.0.2560.1440" width="1346" height="362" />
+    <size key="GridCell.Tab.1.left.0.0.2560.1440" width="1346" height="362" />
+    <size key="GridCell.Tab.1.center.0.0.2560.1440" width="1346" height="362" />
+    <size key="GridCell.Tab.1.right.0.0.2560.1440" width="1346" height="362" />
+    <size key="GridCell.Tab.1.bottom.0.0.2560.1440" width="1346" height="362" />
+    <size key="SettingsEditor.0.0.2560.1440" width="1012" height="645" />
+    <size key="find.popup.0.0.2560.1440" width="656" height="639" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.2560.1440" width="1071" height="674" />
+    <size key="DebuggerActiveHint.0.0.2560.1440" width="907" height="443" />
+    <size key="XDebugger.FullValuePopup.0.0.2560.1440" width="655" height="708" />
+    <size key="StructurePopup.0.0.1920.1080" width="540" height="524" />
+    <size key="bookmarks.0.0.2560.1440" width="864" height="349" />
+    <size key="#xdebugger.evaluate.0.0.2560.1440" width="548" height="564" />
+    <size key="search.everywhere.popup.0.0.2560.1440" width="670" height="676" />
+    <size key="StructurePopup.0.0.2560.1440" width="540" height="524" />
+    <extendedState key="CommittedChanges.SplitterProportions.1" state="500" />
+    <extendedState key="CommittedChanges.SplitterProportions.0" state="700" />
+    <extendedState key="DiffContextDialog" state="0" />
+  </component>
+</application>

@@ -1,0 +1,7 @@
+<application>
+  <component name="UISettings">
+    <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
+    <option name="FONT_FACE" value=".SFNSText-Regular" />
+    <option name="MAX_LOOKUP_WIDTH2" value="1000" />
+  </component>
+</application>

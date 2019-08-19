@@ -1,0 +1,19 @@
+<application>
+  <component name="FileBasedIndex">
+    <option name="registeredIndices">
+      <list>
+        <option value="dom.elementClass" />
+        <option value="dom.namespaceKey" />
+        <option value="DataTypeName" />
+        <option value="DataTypeFullName" />
+        <option value="bash.var" />
+        <option value="bash.vardef" />
+        <option value="bash.scriptCommandReference" />
+        <option value="bash.includers" />
+        <option value="bash.included" />
+        <option value="bash.script.name" />
+        <option value="bash.function.name" />
+      </list>
+    </option>
+  </component>
+</application>
