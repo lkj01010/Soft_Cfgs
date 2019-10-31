@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE layout>
+<layout>
+ <position width="1646" x="223" y="216" height="864"/>
+ <frame currentView="0" ratio="1" brotherIndex="-1" commandId="0">
+  <position width="746" x="0" y="0" height="596"/>
+  <view caption="Camera" areaName="Camera">
+   <toolbar width="-1" x="0" y="0" height="-1" toolBarArea="top" visible="true" index="0" name="CameraViewToolbar" newline="false" orientation="h"/>
+  </view>
+ </frame>
+ <frame currentView="0" ratio="0.728318" brotherIndex="0" commandId="1">
+  <position width="1609" x="0" y="605" height="222"/>
+  <toolbar width="-1" x="0" y="0" height="-1" toolBarArea="top" visible="true" index="0" name="Playback" newline="false" orientation="h"/>
+  <view caption="Timeline" areaName="Timeline">
+   <toolbar width="-1" x="721" y="0" height="-1" toolBarArea="top" visible="true" index="1" name="TimelineViewToolbar" newline="false" orientation="h"/>
+  </view>
+  <view caption="Side" areaName="Side"/>
+  <view caption="Node Library" areaName="Node Library"/>
+ </frame>
+ <frame currentView="0" ratio="0.800857" brotherIndex="0" commandId="2">
+  <position width="319" x="1290" y="0" height="596"/>
+  <view caption="Layer Properties" areaName="Layer Properties"/>
+  <view caption="Top" areaName="Top"/>
+  <view caption="Tool Properties" areaName="Tool Properties"/>
+  <view caption="Library" areaName="Library">
+   <toolbar width="-1" x="0" y="0" height="-1" toolBarArea="top" visible="false" index="0" name="LibraryViewToolbar" newline="false" orientation="h"/>
+   <prefs column0="184" column1="447" viewMode="1" row0="183" row1="288"/>
+  </view>
+ </frame>
+ <frame currentView="0" ratio="0.587559" brotherIndex="0" commandId="2">
+  <position width="526" x="755" y="0" height="596"/>
+  <view caption="Node View" areaName="Node View">
+   <toolbar width="-1" x="0" y="0" height="-1" toolBarArea="top" visible="true" index="0" name="NetworkViewToolbar" newline="true" orientation="h"/>
+   <prefs wvHeight="100" wvWidth="100"/>
+  </view>
+  <view caption="Perspective" areaName="Perspective"/>
+  <view caption="Function" areaName="Function"/>
+ </frame>
+ <toolbars>
+  <toolbar width="-1" x="0" y="0" height="-1" toolBarArea="top" visible="true" index="0" name="FileToolbar" newline="false" orientation="h"/>
+  <toolbar width="-1" x="0" y="0" height="-1" toolBarArea="top" visible="false" index="5" name="Scripting" newline="false" orientation="h"/>
+  <toolbar width="-1" x="1141" y="21" height="-1" toolBarArea="top" visible="false" index="6" name="Coordinate" newline="false" orientation="h"/>
+  <toolbar width="-1" x="1175" y="0" height="-1" toolBarArea="top" visible="true" index="4" name="Display" newline="false" orientation="h"/>
+  <toolbar width="-1" x="572" y="0" height="-1" toolBarArea="top" visible="true" index="3" name="DrawingToolToolbar" newline="false" orientation="h"/>
+  <toolbar width="-1" x="657" y="0" height="-1" toolBarArea="top" visible="false" index="7" name="OnionSkinToolbar" newline="false" orientation="h"/>
+  <toolbar width="-1" x="419" y="0" height="-1" toolBarArea="top" visible="false" index="8" name="MarkDrawingToolBar" newline="false" orientation="h"/>
+  <toolbar width="-1" x="0" y="32" height="-1" toolBarArea="top" visible="false" index="9" name="deformationToolbar" newline="false" orientation="h"/>
+  <toolbar width="-1" x="429" y="0" height="-1" toolBarArea="top" visible="true" index="2" name="Workspace" newline="false" orientation="h"/>
+  <toolbar width="-1" x="381" y="21" height="-1" toolBarArea="top" visible="false" index="10" name="Tool Presets" newline="false" orientation="h"/>
+  <toolbar width="-1" x="0" y="0" height="-1" toolBarArea="top" visible="false" index="11" name="Control Point" newline="false" orientation="h"/>
+  <toolbar width="-1" x="196" y="0" height="-1" toolBarArea="top" visible="true" index="1" name="EditToolbar" newline="false" orientation="h"/>
+  <toolbar width="-1" x="553" y="0" height="-1" toolBarArea="top" visible="false" index="12" name="FlipToolbar" newline="false" orientation="h"/>
+  <toolbar width="-1" x="0" y="0" height="-1" toolBarArea="top" visible="false" index="13" name="Easy Flipping" newline="false" orientation="h"/>
+  <toolbar width="-1" x="0" y="307" height="-1" toolBarArea="left" visible="true" index="1" name="ArtLayerToolbar" newline="false" orientation="v"/>
+  <toolbar width="-1" x="0" y="37" height="-1" toolBarArea="left" visible="true" index="0" name="AdvancedSceneplanningToolToolbar" newline="false" orientation="v"/>
+ </toolbars>
+ <area areaName="Camera">
+  <position width="1315" x="39" docked="1" y="81" height="627"/>
+ </area>
+ <area areaName="Colour">
+  <position width="253" x="157" docked="1" y="113" height="648"/>
+  <position width="1680" x="-4" y="-4" height="998"/>
+  <position width="1680" x="-4" y="-4" height="998"/>
+  <position width="260" x="1293" y="163" height="450"/>
+  <position width="1680" x="-4" y="-4" height="998"/>
+  <position width="313" x="1338" y="116" height="565"/>
+  <position width="382" x="1302" docked="1" y="86" height="326"/>
+  <position width="746" x="1166" docked="1" y="734" height="309"/>
+ </area>
+ <area areaName="Coord. And Control Points">
+  <position width="508" x="776" docked="1" y="580" height="413"/>
+  <position width="776" x="1136" docked="1" y="710" height="333"/>
+ </area>
+ <area areaName="Drawing">
+  <position width="968" x="157" docked="1" y="113" height="648"/>
+ </area>
+ <area areaName="Function">
+  <position width="524" x="965" docked="1" y="81" height="962"/>
+ </area>
+ <area areaName="Layer Properties"/>
+ <area areaName="Library">
+  <position width="406" x="878" docked="1" y="82" height="330"/>
+  <position width="653" x="1259" docked="1" y="667" height="376"/>
+ </area>
+ <area areaName="Message Log">
+  <position width="1315" x="39" docked="1" y="81" height="627"/>
+ </area>
+ <area areaName="Model"/>
+ <area areaName="Node Library">
+  <position width="406" x="878" docked="1" y="82" height="330"/>
+ </area>
+ <area areaName="Node View">
+  <position width="407" x="36" docked="1" y="82" height="318"/>
+  <position width="524" x="965" docked="1" y="81" height="962"/>
+ </area>
+ <area areaName="Perspective">
+  <position width="407" x="877" docked="1" y="82" height="317"/>
+  <position width="567" x="717" docked="1" y="82" height="467"/>
+  <position width="533" x="751" docked="1" y="82" height="482"/>
+  <position width="524" x="965" docked="1" y="81" height="962"/>
+ </area>
+ <area areaName="Side">
+  <position width="962" x="0" docked="1" y="554" height="469"/>
+  <position width="991" x="4" docked="1" y="719" height="129"/>
+  <position width="514" x="770" docked="1" y="557" height="436"/>
+ </area>
+ <area areaName="Timeline"/>
+ <area areaName="Tool Properties">
+  <position width="1680" x="-4" y="-4" height="998"/>
+  <position width="524" x="965" docked="1" y="81" height="962"/>
+ </area>
+ <area areaName="Top">
+  <position width="190" x="805" docked="1" y="78" height="491"/>
+  <position width="767" x="1145" docked="1" y="81" height="962"/>
+ </area>
+ <area areaName="Xsheet">
+  <position width="307" x="973" docked="1" y="554" height="469"/>
+  <position width="962" x="0" docked="1" y="554" height="469"/>
+  <position width="442" x="1027" docked="1" y="113" height="653"/>
+  <position width="819" x="149" docked="1" y="582" height="447"/>
+  <position width="358" x="1326" docked="1" y="113" height="555"/>
+ </area>
+ <area areaName="Script Editor">
+  <position width="1252" x="31" docked="1" y="103" height="709"/>
+ </area>
+</layout>

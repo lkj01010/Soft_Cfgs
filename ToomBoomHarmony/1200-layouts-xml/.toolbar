@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<toolbar>
+ <layout location="user" name="Default"/>
+ <layout location="user" name="Hand-Drawn"/>
+ <layout location="user" name="Compositing"/>
+ <layout location="user" name="Animating"/>
+ <layout location="user" name="Scripting"/>
+ <layout location="user" name="Mid_191011"/>
+ <viewToolbar areaName="Camera">
+  <entry name="DRAWING_SHOW_GRID"/>
+  <entry name="SPLANNING_RESET_ALL_TRANSFORMATIONS"/>
+  <entry name="DRAWING_LINE_ART_TO_COLOR_ART"/>
+  <entry name="DRAWING_FLATTEN"/>
+  <entry name="SPLANNING_LOCK"/>
+  <entry name="SPLANNING_UNLOCK_ALL"/>
+  <entry name="SPLANNING_TOGGLE_CONTROL"/>
+  <entry name="Main Hide All Controls"/>
+  <entry name="TOP_LIGHT"/>
+  <entry name="DRAWING_OS_ADD_PREV_KEY"/>
+  <entry name="DRAWING_OS_REDUCE_PREV_KEY"/>
+  <entry name="DRAWING_OS_REDUCE_NEXT_KEY"/>
+  <entry name="DRAWING_OS_ADD_NEXT_KEY"/>
+  <entry name="CAMERA_FLIP_HORIZONTAL"/>
+  <entry name="CAMERA_FLIP_VERTICAL"/>
+  <entry name="DRAWING_REMOVE_DIRT"/>
+ </viewToolbar>
+ <viewToolbar areaName="Drawing">
+  <entry name="DRAWING_SHOW_GRID"/>
+  <entry name="DRAWING_AUTO_LIGHT_TABLE"/>
+  <entry name="DRAWING_LINE_ART_TO_COLOR_ART"/>
+  <entry name="DRAWING_GROUP"/>
+  <entry name="TOP_LIGHT"/>
+  <entry name="DRAWING_OS_ADD_PREV_KEY"/>
+  <entry name="DRAWING_OS_REDUCE_PREV_KEY"/>
+  <entry name="DRAWING_OS_REDUCE_NEXT_KEY"/>
+  <entry name="DRAWING_OS_ADD_NEXT_KEY"/>
+ </viewToolbar>
+ <viewToolbar areaName="Free">
+  <entry name="SPLANNING_SELECT_PARENT"/>
+  <entry name="SPLANNING_SELECT_CHILD"/>
+  <entry name="SPLANNING_SELECT_PREVIOUSBROTHER"/>
+  <entry name="SPLANNING_SELECT_NEXTBROTHER"/>
+  <entry name="SPLANNING_SELECT_NEXT_OBJECT"/>
+  <entry name="SPLANNING_SELECT_PREVIOUS_OBJECT"/>
+ </viewToolbar>
+ <viewToolbar areaName="Library">
+  <entry name="LIBRARY_OPEN"/>
+  <entry name="LIBRARY_CLOSE"/>
+  <entry name="LIBRARY_NEW_FOLDER"/>
+  <entry name="LIBRARY_DELETE_FOLDER"/>
+  <entry name="LIBRARY_REFRESH"/>
+  <entry name="LIBRARY_VIEW_LIST"/>
+  <entry name="LIBRARY_VIEW_DETAILS"/>
+  <entry name="LIBRARY_VIEW_THUMBNAILS"/>
+ </viewToolbar>
+ <viewToolbar areaName="Model">
+  <entry name="MODEL_LOAD"/>
+  <entry name="MODEL_PREVIOUS_DRAWING"/>
+  <entry name="MODEL_NEXT_DRAWING"/>
+  <entry name="MODEL_DROPPER"/>
+  <entry name="MODEL_ZOOM"/>
+  <entry name="SelectTool"/>
+  <entry name="DRAWING_CUTTER"/>
+ </viewToolbar>
+ <viewToolbar areaName="Node View">
+  <entry name="NETWORK_ENABLE"/>
+  <entry name="NETWORK_DISABLE"/>
+  <entry name="NETWORK_ORDER_UP"/>
+  <entry name="NETWORK_ORDER_DOWN"/>
+  <entry name="FOCUS_ON_SELECTION"/>
+  <entry name="NETWORK_VIEW_SHOWSELECTEDTHUMBNAIL"/>
+  <entry name="NETWORK_VIEW_HIDESELECTEDTHUMBNAIL"/>
+  <entry name="SELECT_ALL_MODULES"/>
+  <entry name="NV_SET_PROPERTIES"/>
+  <entry name="Show All Modules"/>
+  <entry name="__generated__QtScript_TB_Add_Prefix_Or_Suffix in TB_Add_Prefix_Or_Suffix.js"/>
+ </viewToolbar>
+ <viewToolbar areaName="Playback">
+  <entry name="PLAYBACK_LOAD_DISPLAY"/>
+  <entry name="PLAYBACK_LOAD_DIRECTORY"/>
+  <entry name="PLAYBACK_RELOAD"/>
+  <entry name="PLAYBACK_UNLOAD"/>
+  <entry name="PLAYBACK_IMAGE"/>
+ </viewToolbar>
+ <viewToolbar areaName="Script Editor">
+  <entry name="NewButton"/>
+  <entry name="ImportButton"/>
+  <entry name="DeleteButton"/>
+  <entry name="SetEditorButton"/>
+  <entry name="EditorButton"/>
+  <entry name="SetTarget"/>
+  <entry name="RunButton"/>
+  <entry name="DebugButton"/>
+  <entry name="StopButton"/>
+ </viewToolbar>
+ <viewToolbar areaName="Timeline">
+  <entry name="TIMELINE_CREATE_REPLACE_DRAWING"/>
+  <entry name="TIMELINE_DUPLICATE_DRAWING"/>
+  <entry name="TIMELINE_ADD_KEYFRAME"/>
+  <entry name="TIMELINE_REMOVE_KEYFRAME"/>
+  <entry name="TIMELINE_NON_CONSTANT_KEYFRAME"/>
+  <entry name="TIMELINE_CONSTANT_KEYFRAME"/>
+  <entry name="TIMELINE_GOTO_PREV_KEYFRAME"/>
+  <entry name="TIMELINE_GOTO_NEXT_KEYFRAME"/>
+  <entry name="DRAWING_ADD_DRAWING_KEY"/>
+  <entry name="DRAWING_REMOVE_DRAWING_KEY"/>
+  <entry name="TIMELINE_CENTER_ON_SELECTION"/>
+  <entry name="TIMELINE_SET_EASE"/>
+  <entry name="CREATE_KEYFRAMES_ON"/>
+  <entry name="DRAWING_FILL_EMPTY_CELS"/>
+  <entry name="TIMELINE_SET_PASTE_MODE_ALL"/>
+  <entry name="TIMELINE_SET_PASTE_MODE_KEYFRAME"/>
+  <entry name="TIMELINE_SET_PASTE_MODE_EXPOSURE"/>
+  <entry name="__generated__QtScript_TB_Add_Prefix_Or_Suffix in TB_Add_Prefix_Or_Suffix.js"/>
+ </viewToolbar>
+ <viewToolbar areaName="Xsheet">
+  <entry name="XSHEET_THUMBNAILS"/>
+  <entry name="XSHEET_TOGGLE_SIDE_PANEL"/>
+  <entry name="XSHEET_ADD_COLUMNS"/>
+  <entry name="XSHEET_DELETE_COLUMNS"/>
+  <entry name="XSHEET_ADD_FRAMES_AFTER"/>
+  <entry name="XSHEET_SCAN_DRAWINGS"/>
+  <entry name="XSHEET_CREATE_AND_REPLACE_DRAWING"/>
+  <entry name="XSHEET_DUPLICATE_DRAWING"/>
+  <entry name="XSHEET_MARK_AS_KEY"/>
+  <entry name="XSHEET_MARK_AS_BREAKDOWN"/>
+  <entry name="XSHEET_MARK_AS_INBETWEEN"/>
+  <entry name="XSHEET_INSERT_CLEAR"/>
+  <entry name="XSHEET_INCREASE_EXPOSURE"/>
+  <entry name="XSHEET_DECREASE_EXPOSURE"/>
+  <entry name="XSHEET_RENAME_DRAWING"/>
+  <entry name="XSHEET_ADD_TO_DRAWING_VIEW_TOOLBAR"/>
+  <entry name="DRAWING_FILL_EMPTY_CELS"/>
+ </viewToolbar>
+ <globalToolbar toolbarName="ArtLayerToolbar">
+  <entry name="PreviewArt"/>
+  <entry name="__uuid_103_2009472183__"/>
+  <entry name="OverlayArt"/>
+  <entry name="LineArt"/>
+  <entry name="ColorArt"/>
+  <entry name="UnderlayArt"/>
+ </globalToolbar>
+</toolbar>

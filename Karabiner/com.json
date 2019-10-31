@@ -20,14 +20,16 @@
                     "to": [
                         {
                             "mouse_key": {
-                                "vertical_wheel": -64
+                                "vertical_wheel": 64
                             }
                         }
                     ],
                     "conditions": [
                         {
                             "type": "frontmost_application_unless",
-                            "bundle_identifiers": []
+                            "bundle_identifiers": [
+                                "^com\\.adobe\\.Adobe-Animate-2019\\.application"
+                            ]
                         }
                     ]
                 },
@@ -47,21 +49,23 @@
                     "to": [
                         {
                             "mouse_key": {
-                                "vertical_wheel": 64
+                                "vertical_wheel": -64
                             }
                         }
                     ],
                     "conditions": [
                         {
                             "type": "frontmost_application_unless",
-                            "bundle_identifiers": []
+                            "bundle_identifiers": [
+                                "^com\\.adobe\\.Adobe-Animate-2019\\.application"
+                            ]
                         }
                     ]
                 }
             ]
         },
         {
-            "description": "Com: Mouse left to keyboard",
+            "description": "Com: Mouse mid to keyboard",
             "manipulators": [
                 {
                     "type": "basic",
@@ -70,12 +74,15 @@
                         "modifiers": {
                             "mandatory": [
                                 "left_option"
+                            ],
+                            "optional": [
+                                "any"
                             ]
                         }
                     },
                     "to": [
                         {
-                            "pointing_button": "button1"
+                            "pointing_button": "button3"
                         }
                     ]
                 }
@@ -91,6 +98,9 @@
                         "modifiers": {
                             "mandatory": [
                                 "left_command"
+                            ],
+                            "optional": [
+                                "any"
                             ]
                         }
                     },

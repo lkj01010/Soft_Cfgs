@@ -1,0 +1,1 @@
+dlv attach `ps -ef | grep "centersrv" -E | awk '{print $2}'` --headless --listen=:20020 --api-version=2 --accept-multiclient

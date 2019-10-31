@@ -1,0 +1,1 @@
+如果使用zsh，那么系统执行的是zprofile，而不是profile

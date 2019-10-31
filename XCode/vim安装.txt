@@ -1,0 +1,6 @@
+git clone https://github.com/XVimProject/XVim2.git
+git clone https://github.com/slegetank/ResignXcode.git
+cd ResignXcode
+python3 ResignXcode.py
+cd ../XVim2
+make

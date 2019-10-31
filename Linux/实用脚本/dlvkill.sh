@@ -1,0 +1,1 @@
+kill -9 `ps -ef | grep "dlv" -E | awk '{print $2}'`

@@ -1,0 +1,2 @@
+查看app是否运行
+ps axco pid,command | grep yourAppName

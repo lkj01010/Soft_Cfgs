@@ -2,15 +2,15 @@
   "title": "3dcoat",
   "rules": [
     {
-      "description": "3dcoat: F1 F2 to mouse",
+      "description": "3dcoat: tab, 3",
       "manipulators": [
         {
           "type": "basic",
           "from": {
-            "key_code": "f1",
+            "key_code": "tab",
             "modifiers": {
               "optional": [
-                "any"
+                "caps_lock"
               ]
             }
           },
@@ -31,10 +31,10 @@
         {
             "type": "basic",
             "from": {
-              "key_code": "f2",
+              "key_code": "3",
               "modifiers": {
                 "optional": [
-                  "any"
+                  "caps_lock"
                 ]
               }
             },
@@ -54,7 +54,32 @@
                 ]
               }
             ]
+        },
+		{
+            "type": "basic",
+            "from": {
+              "key_code": "f3",
+              "modifiers": {
+                "optional": [
+                  "caps_lock"
+                ]
+              }
+            },
+            "to": [
+              {
+                  "key_code": "3"
+              }
+            ],
+            "conditions": [
+              {
+                "type": "frontmost_application_if",
+                "bundle_identifiers": [
+                  "^com\\.Pilgway\\.-D-Coat"
+                ]
+              }
+            ]
         }
+
       ]
     }
   ]

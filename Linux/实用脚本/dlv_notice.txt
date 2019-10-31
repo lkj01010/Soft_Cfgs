@@ -1,0 +1,2 @@
+在服务器的dlv调试服务开启状态下，如果goland停在了断点，此时如果调用 dlvkill脚本，强行杀死dlv进程，那么被调试的进程也会在断点处崩溃:SIGTRAP: trace trap；而 ctrl-c不会崩溃（带持续验证），可能是dlv收到结束信号后，进行了善后处理。
+所以，尽可能不要用 dlvkill.sh

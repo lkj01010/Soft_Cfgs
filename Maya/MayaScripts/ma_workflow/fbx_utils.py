@@ -63,6 +63,9 @@ def export_fbx_model(mapath):
     objs = cmds.ls(type=('geometryShape', 'joint'))
     cmds.select(objs)
 
+    # useless: 想把控制器排除在导出之外，但结果是虽然看起来没选中，最后在导出的fbx里依然存在
+    # cmds.select("*_Ctrl_*", deselect=True, hierarchy=True)
+
     mm.eval('FBXResetExport')
     mm.eval('FBXExportAnimationOnly -v false')
     mm.eval('FBXExportBakeComplexAnimation -v false')

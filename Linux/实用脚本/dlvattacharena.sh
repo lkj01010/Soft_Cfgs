@@ -1,0 +1,1 @@
+dlv attach `ps -ef | grep "arenasrv" -E | awk '{print $2}'` --headless --listen=:20021 --api-version=2 --accept-multiclient

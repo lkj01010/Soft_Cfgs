@@ -1,0 +1,34 @@
+# System-wide .profile for sh(1)
+
+if [ -x /usr/libexec/path_helper ]; then
+	eval `/usr/libexec/path_helper -s`
+fi
+
+if [ "${BASH-no}" != "no" ]; then
+	[ -r /etc/bashrc ] && . /etc/bashrc
+fi
+
+C_INCLUDE_PATH=/usr/include
+export C_INCLUDE_PATH
+
+# lkj add:
+# GO_BIN_PATH=$GOPATH/bin
+# export GO_BIN_PATH
+
+
+export GOROOT=/usr/local/go
+export PATH=$PATH:$GOROOT/bin
+export GOPATH=/Users/Midstream/Documents/Dev/gopath
+export GOBIN=$GOPATH/bin
+export PATH=$PATH:$GOBIN
+
+export GO15VENDOREXPERIMENT=1
+
+export PATH=/Users/Midstream/Documents/Dev/tools/depot_tools:$PATH
+
+export ANDROID_HOME=/Users/Midstream/Library/Android/sdk
+export ANDROID_NDK_HOME=/Users/Midstream/Library/Android/android-ndk-r10e
+export ANDROID_NDK=/Users/Midstream/Library/Android/android-ndk-r10e
+
+export PATH=$PATH:$/usr/local/lib/node_modules/flow-bin/flow-osx-v0.32.0/flow
+export PATH=$PATH:/Users/Midstream/Library/Python/2.7/bin
